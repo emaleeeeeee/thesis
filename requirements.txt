@@ -1,0 +1,5 @@
+tqdm
+ipywidgets==7.6.5
+networkx
+rake_nltk
+rake_nltk

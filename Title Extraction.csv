@@ -1,0 +1,2739 @@
+﻿,ID,subject,subject_clean,Len
+0,1,'great projector',great projector,2
+1,2,'little projector',little projector,2
+2,2, 'punch',punch,1
+3,2, 'pack',pack,1
+4,3,'well thought',well thought,2
+5,3,'quality',quality,1
+6,3, 'high',high,1
+7,4,'truly amaze piece',truly amaze piece,3
+8,4, 'hardware',hardware,1
+9,4,'blown away',blown away,2
+10,5,'awesome little projector',awesome little projector,3
+11,6,'amaze',amaze,1
+12,6,'crib like',crib like,2
+13,6, 'perfect',perfect,1
+14,6, 'baby',baby,1
+15,7,'awesome',awesome,1
+16,7,'use',use,1
+17,7, 'simple',simple,1
+18,8,'take note',take note,2
+19,8,'mobile device',mobile device,2
+20,8, 'usb',usb,1
+21,8, 'hdmi',hdmi,1
+22,8, 'c',c,1
+23,8, 'add',add,1
+24,8,'light cord iphone',light cord iphone,3
+26,9,'work',work,1
+27,9, 'advertised',advertised,1
+28,10,"'`` really frickin cool """"'",really frickin cool,3
+29,11,'amaze little projector',amaze little projector,3
+30,12,'say',say,1
+31,12, 'everything',everything,1
+33,12,'well',well,1
+35,14,'best invention ever',best invention ever,3
+37,15,'diggity',diggity,1
+38,15, 'bomb',bomb,1
+39,16,'best smart projector',best smart projector,3
+40,17,'convenient',convenient,1
+41,18,'great customer service',great customer service,3
+42,18,'great projector',great projector,2
+43,19,'best projector ever',best projector ever,3
+44,20,'purchase',purchase,1
+45,20, 'happy',happy,1
+46,21,'small device .... pack',small device pack,3
+47,21, 'big punch',big punch,2
+48,22,'portable smart tv 📺',portable smart tv 📺,4
+49,22, 'like',like,1
+50,23,'advertised',advertised,1
+51,24,'look',look,1
+52,24, 'exactly',exactly,1
+53,25,'without cable',without cable,2
+54,25, 'theater',theater,1
+55,26,'sound quality',sound quality,2
+56,26, 'picture',picture,1
+57,26, 'great',great,1
+58,27,"'`` ill never buy another tv """"'",ill never buy another tv,5
+59,28,'fantastic design',fantastic design,2
+60,28,'watch movie',watch movie,2
+61,28, 'lie',lie,1
+62,28, 'ceiling',ceiling,1
+63,28, 'bed',bed,1
+64,29,'happy camper',happy camper,2
+66,30,'great little projector',great little projector,3
+67,30,'even well customer service',even well customer service,4
+68,31,'amaze product',amaze product,2
+69,32,'great package',great package,2
+70,33,'not regret buying',not regret buying,3
+71,34,'wow',wow,1
+72,35,'awesome picture',awesome picture,2
+73,35,'product',product,1
+74,35,'quality',quality,1
+75,36,'great lil tech device',great lil tech device,4
+76,37,'great product',great product,2
+77,37,'great customer service',great customer service,3
+78,38,'good splurge',good splurge,2
+79,39,'tiny',tiny,1
+80,39, 'amaze',amaze,1
+81,40,'need portability',need portability,2
+82,40, 'game system',game system,2
+83,40, 'recommend',recommend,1
+84,40, 'comparability',comparability,1
+85,41,'love',love,1
+86,42,'add additional speaker',add additional speaker,3
+87,42, 'may need',may need,2
+88,43,'verry attentive',verry attentive,2
+89,43, 'customer support',customer support,2
+90,44,'great projector',great projector,2
+91,45,'need word',need word,2
+92,45, 'say',say,1
+93,46,'awesome projector',awesome projector,2
+95,47,'nice',nice,1
+96,48,'portable projector',portable projector,2
+97,48, 'great',great,1
+98,49,'perdé',perdé,1
+99,50,'perfect',perfect,1
+100,51,'excellent',excellent,1
+101,52,'dope',dope,1
+102,53,'not bad meaning bad',not bad meaning bad,4
+103,53,'bad meaning good',bad meaning good,3
+104,54,'anker nebula capsule',anker nebula capsule,3
+105,55,'good',good,1
+106,56,'great picture',great picture,2
+107,57,'small',small,1
+108,57,'projection huge',projection huge,2
+109,57,'game changer',game changer,2
+110,58,'five star',five star,2
+111,59,'buy',buy,1
+112,60,'use',use,1
+113,60, 'easy',easy,1
+115,62,'lag',lag,1
+116,62,'overall worth',overall worth,2
+117,63,'use',use,1
+118,63, 'night',night,1
+119,63, 'great',great,1
+120,64,'best item',best item,2
+121,65,'great portability',great portability,2
+122,65,'awesome projector',awesome projector,2
+123,66,'usb ppt file',usb ppt file,3
+124,66, 'not play',not play,2
+125,67,'netflix account',netflix account,2
+126,68,'love',love,1
+127,69,'amaze product definitely recommend',amaze product definitely recommend,4
+128,70,'nice',nice,1
+129,71,'clear picture',clear picture,2
+130,72,'great picture',great picture,2
+131,72, 'sound',sound,1
+132,73,'great portable projector',great portable projector,3
+133,74,'nintendo switch gameplay',nintendo switch gameplay,3
+134,74, 'great',great,1
+135,75,'great tiny portable device',great tiny portable device,4
+136,75, 'like attention',like attention,2
+137,75, 'detail',detail,1
+138,75, 'apple',apple,1
+139,76,'great',great,1
+141,76,'get great product',get great product,3
+142,77,'simply awesome',simply awesome,2
+143,77,'product',product,1
+144,77, 'love',love,1
+145,78,'ok',ok,1
+146,78,'wow ... love',wow love,2
+147,78, 'portable projector',portable projector,2
+148,78, 'case',case,1
+149,79,'amaze product',amaze product,2
+150,80,'great little device',great little device,3
+151,81,'wow',wow,1
+152,82,'home use',home use,2
+153,82, 'great device',great device,2
+154,82, 'travel',travel,1
+155,83,'super awesome',super awesome,2
+156,84,'love',love,1
+157,85,'multi funcion',multi funcion,2
+158,85,'proyector',proyector,1
+159,85, 'parlante',parlante,1
+160,86,'anker nebula capsule',anker nebula capsule,3
+161,86, 'well worth',well worth,2
+162,86, 'money',money,1
+164,87,'price',price,1
+165,88,'good projector',good projector,2
+166,89,'little projector',little projector,2
+167,89, 'amaze',amaze,1
+168,89,'full google experience',full google experience,3
+169,89, 'unlock',unlock,1
+170,89,'take 5 minute',take 5 minute,3
+171,90,'standard ...',standard,1
+172,90, 'sit nicely',sit nicely,2
+173,90, 'surface',surface,1
+174,90, 'come',come,1
+175,91,'amaze little device',amaze little device,3
+176,92,'100 inch screen',100 inch screen,3
+177,93,'perfect',perfect,1
+178,93,'sound',sound,1
+179,94,'great quality',great quality,2
+180,94,'various apps',various apps,2
+181,94, 'use stream',use stream,2
+182,94, 'easy',easy,1
+183,95,'amaze projector',amaze projector,2
+184,95, 'price',price,1
+185,95,'ton',ton,1
+186,95, 'fun',fun,1
+187,96,'amaze device',amaze device,2
+188,96, 'everything',everything,1
+189,97,'cabin tent glamping',cabin tent glamping,3
+190,98,'soda',soda,1
+191,98, 'entertainment',entertainment,1
+192,99,'far ...',far,1
+193,99, 'excellent',excellent,1
+194,100,'update review',update review,2
+195,100, 'work',work,1
+196,100, 'want',want,1
+197,100, 'nebula',nebula,1
+198,101,'favorite lead projector',favorite lead projector,3
+199,101, 'far',far,1
+200,101,'tick',tick,1
+201,101, 'box',box,1
+202,102,'great image quality',great image quality,3
+203,102, 'small investment',small investment,2
+204,103,'favorite purchase',favorite purchase,2
+205,103, 'year',year,1
+206,103, 'last',last,1
+207,104,'profoundly durable projector well',profoundly durable projector well,4
+208,104, 'worth',worth,1
+209,104, 'money',money,1
+210,105,'absolutely amaze',absolutely amaze,2
+211,106,'stupid projector',stupid projector,2
+212,106, 'love',love,1
+213,106,'`` great bang',great bang,2
+214,106, 'youre aware',youre aware,2
+215,106," 'limitation """"'",limitation,1
+216,106, 'buck',buck,1
+217,107,'customer service',customer service,2
+218,107, 'projector',projector,1
+219,107, 'love',love,1
+220,108,'amaze',amaze,1
+221,108,'use right',use right,2
+222,108, 'easy',easy,1
+223,108, 'box',box,1
+224,108,'great sound',great sound,2
+225,108, 'picture',picture,1
+226,108,'buy',buy,1
+227,108, 'already',already,1
+228,109,'small',small,1
+229,109, 'portable',portable,1
+230,109,'great functionality',great functionality,2
+231,110,'super cool little projector',super cool little projector,4
+232,111,'coolest thing ever',coolest thing ever,3
+234,112,'awesome portable projector',awesome portable projector,3
+235,113,'pretty great',pretty great,2
+236,113, 'anker service',anker service,2
+237,113, 'nebula',nebula,1
+238,113, 'best',best,1
+239,114,'small',small,1
+240,114,'work',work,1
+241,114, 'compact',compact,1
+242,115,'impressive portability',impressive portability,2
+243,115,'value',value,1
+244,115, 'quality',quality,1
+245,116,'best purchase',best purchase,2
+246,117,'netflix android phone workaround',netflix android phone workaround,4
+247,118,'projector',projector,1
+248,118, 'love',love,1
+250,119,'important stuff',important stuff,2
+251,119, 'good',good,1
+252,119,'not deal',not deal,2
+253,119, 'drawback',drawback,1
+254,119, 'breakers',breakers,1
+255,119, 'annoy',annoy,1
+256,120,'great customer service',great customer service,3
+257,121,'amaze quality',amaze quality,2
+258,122,'awesome niche projector',awesome niche projector,3
+259,123,'hbo max',hbo max,2
+260,123, 'hulu',hulu,1
+261,123, 'compatible',compatible,1
+262,124,'highly recommend',highly recommend,2
+263,125,'perfect',perfect,1
+264,126,'excellent customer service',excellent customer service,3
+265,126, 'cool',cool,1
+266,127,'astonish product — great picture',astonish product — great picture,5
+267,127, 'easy',easy,1
+268,127, 'connect',connect,1
+269,128,'xgimi mogo pro –',xgimi mogo pro –,4
+270,128, 'nebula capsule vs',nebula capsule vs,3
+271,128, 'nebula',nebula,1
+272,128, 'chose',chose,1
+273,129,'even well customer service',even well customer service,4
+274,129, 'good product',good product,2
+275,130,'good piece',good piece,2
+276,130, 'kit',kit,1
+277,131,'thing',thing,1
+278,131, 'awesome',awesome,1
+280,132,'thing',thing,1
+281,132, 'love',love,1
+282,133,'entire movie night ...',entire movie night,3
+283,133, 'soda',soda,1
+284,133,"'amaze """"'",amaze,1
+286,134,'cool smart little projector',cool smart little projector,4
+287,135,'two year update',two year update,3
+288,135, 'die',die,1
+289,136,'particularly spectacular brightness ...',particularly spectacular brightness,3
+290,136, 'not expect',not expect,2
+291,137,'product quality',product quality,2
+292,137,'customer service',customer service,2
+293,137, 'company response',company response,2
+294,137, 'unrivaled',unrivaled,1
+295,138,'experience vs',experience vs,2
+296,138, 'resolution',resolution,1
+297,138, 'must',must,1
+298,138, 'look',look,1
+299,139,'super handy',super handy,2
+300,139, 'smart tv',smart tv,2
+301,139, 'go projector',go projector,2
+302,139, 'functional',functional,1
+303,140,'good picture small package',good picture small package,4
+304,141,'highly recommend',highly recommend,2
+305,141, 'anyone',anyone,1
+306,142,'love love love',love love love,3
+307,143,'unlock google play service',unlock google play service,4
+308,143, 'entertain kid',entertain kid,2
+309,143, 'great',great,1
+310,144,'movie night',movie night,2
+311,144,'whole new level',whole new level,3
+312,145,'light',light,1
+313,145,'compact projector',compact projector,2
+314,145, 'clear picture',clear picture,2
+315,145, 'brilliant',brilliant,1
+316,146,'wow',wow,1
+317,147,'great customer service',great customer service,3
+318,147, 'great product',great product,2
+320,148,'blown',blown,1
+321,148,'away',away,1
+322,149,'work like',work like,2
+323,149, 'charm',charm,1
+324,150,'work well',work well,2
+325,150, 'intend use',intend use,2
+326,151,'youre not picky',youre not picky,3
+327,151," 'little nuance """"'",little nuance,2
+328,151, '`` fantastic',fantastic,1
+329,152,'great',great,1
+330,153,'quality',quality,1
+331,153,'quality',quality,1
+332,153,'quality',quality,1
+333,154,'portable projector',portable projector,2
+334,154, 'must',must,1
+335,154, 'look',look,1
+337,155,'pico projector',pico projector,2
+338,155, 'full effect',full effect,2
+339,155, 'show',show,1
+340,155, 'movies',movies,1
+341,156,'best projector',best projector,2
+342,156, '1000',1000,1
+344,157,'almost not buying due',almost not buying due,4
+345,157, 'customer support',customer support,2
+346,158,'every way',every way,2
+347,158, 'absolutely pleased',absolutely pleased,2
+348,159,'tiny powerhouse',tiny powerhouse,2
+349,160,'great customer service',great customer service,3
+350,161,'small',small,1
+351,161,'compact',compact,1
+352,162,'incredible ....',incredible,1
+353,163,'great customer service',great customer service,3
+355,164,'anker incredible experience ....',anker incredible experience,3
+356,165,'great small portable projector',great small portable projector,4
+357,166,'`` get',get,1
+358,166,'youll love',youll love,2
+360,167,'love',love,1
+361,167,'use',use,1
+362,167, 'easy',easy,1
+363,168,'projector',projector,1
+364,168, 'love',love,1
+365,169,'great quality',great quality,2
+366,169,'apps compatible',apps compatible,2
+367,169, 'netflix',netflix,1
+368,170,'great functionality',great functionality,2
+369,170, 'quality',quality,1
+370,170, 'price',price,1
+371,171,'good',good,1
+372,171,'daughter give',daughter give,2
+373,171, 'use',use,1
+374,171, 'tv',tv,1
+375,171, 'projector',projector,1
+376,172,'amaze support',amaze support,2
+377,172, 'anker',anker,1
+378,173,'great picture quality',great picture quality,3
+379,173, 'sound ...',sound,1
+380,173, 'watch',watch,1
+381,173, 'tv',tv,1
+382,173, 'nebula',nebula,1
+383,174,'fantastic little device seriously',fantastic little device seriously,4
+384,174, 'favorite new toy',favorite new toy,3
+385,175,'great product',great product,2
+386,175,'great price',great price,2
+387,176,'easy little fella',easy little fella,3
+388,176, 'use',use,1
+389,177,'solution',solution,1
+390,177, 'best',best,1
+391,178,'nebula',nebula,1
+392,178, 'love',love,1
+393,179,'perfect depend',perfect depend,2
+394,179, 'projector',projector,1
+395,179, 'look',look,1
+396,180,'update',update,1
+397,180, 'review',review,1
+398,181,'quality mini portable projector',quality mini portable projector,4
+399,181, 'speaker',speaker,1
+400,181, 'built',built,1
+401,182,'great android projector',great android projector,3
+402,183,'really',really,1
+403,183, 'fun',fun,1
+404,183, 'alot',alot,1
+405,184,'worth',worth,1
+406,184,'outdoor party',outdoor party,2
+407,184, 'family night',family night,2
+408,184, 'great',great,1
+409,185,'watch hulu',watch hulu,2
+410,185,'netflix',netflix,1
+411,185,'youtube',youtube,1
+412,185,'amazon prime',amazon prime,2
+413,185,'access apple movie',access apple movie,3
+414,185, 'not able',not able,2
+415,186,'amaze',amaze,1
+417,187,'expensive',expensive,1
+418,187,'great projector',great projector,2
+419,188,'recommend',recommend,1
+420,189,'worth',worth,1
+421,190,'awesome device',awesome device,2
+422,190, 'price',price,1
+423,191,'small kid',small kid,2
+424,191, 'big plus',big plus,2
+425,191, 'portability',portability,1
+426,192,'best “ tv ”',best “ tv ”,4
+427,192, 'ever',ever,1
+428,193,'love',love,1
+429,194,'great projector worth',great projector worth,3
+430,195,'fantastic projector',fantastic projector,2
+431,195, 'travel',travel,1
+432,196,'cinema like experience',cinema like experience,3
+433,196,'fun family projector',fun family projector,3
+434,197,'amaze',amaze,1
+436,198,'incredibly versatile',incredibly versatile,2
+437,198,'great quality',great quality,2
+438,198,'software asap',software asap,2
+439,198, 'upgrade',upgrade,1
+440,199,'home theater',home theater,2
+441,199, '`` not',not,1
+442,199, 'box',box,1
+443,199,"'portability """"'",portability,1
+444,199, 'size',size,1
+445,199, 'incredible',incredible,1
+446,200,'wow',wow,1
+447,200, 'great',great,1
+448,200,'small portable package',small portable package,3
+449,200, 'everything include',everything include,2
+450,201,'excellent product',excellent product,2
+451,201,'excellent support team',excellent support team,3
+452,202,'awesome',awesome,1
+453,203,'high resolution ....',high resolution,2
+454,203, 'wish',wish,1
+455,203, 'love',love,1
+456,203, 'concept',concept,1
+457,204,'work great',work great,2
+458,204, 'dark environment',dark environment,2
+459,204, 'dark',dark,1
+460,204, 'semi',semi,1
+461,204,'easily portable',easily portable,2
+462,204, 'well',well,1
+463,205,'great image quality',great image quality,3
+464,205,'worth',worth,1
+465,205, 'price',price,1
+466,205,'portable',portable,1
+467,206,'awesome projector',awesome projector,2
+468,207,'thing',thing,1
+469,207, 'cool',cool,1
+470,207, 'ahem',ahem,1
+471,207,'highly recommend',highly recommend,2
+472,207,'quality construction',quality construction,2
+473,208,'get ready ...',get ready,2
+474,208, 'best friend',best friend,2
+475,208, 'purchase',purchase,1
+476,208, 'much',much,1
+477,208, 'another',another,1
+478,209,'affordable package',affordable package,2
+479,209, 'value',value,1
+480,209, 'tiny',tiny,1
+481,209, 'pack',pack,1
+482,209, 'lot',lot,1
+483,210,'family movie night',family movie night,3
+484,210, 'never',never,1
+485,210, 'camp',camp,1
+486,211,'great gift',great gift,2
+487,212,'great portable projector',great portable projector,3
+488,213,'great purchase',great purchase,2
+489,213, 'absolutely',absolutely,1
+490,214,'great',great,1
+491,214,'compact',compact,1
+492,214,'use',use,1
+493,214, 'easy',easy,1
+494,215,'great quality',great quality,2
+495,215,'picture',picture,1
+496,215,'sound',sound,1
+497,215,'love',love,1
+499,216,'draw back',draw back,2
+500,216, 'travel',travel,1
+501,216, 'great',great,1
+502,217,'want',want,1
+503,217, 'exactly',exactly,1
+504,218,'awesome little projector',awesome little projector,3
+505,219,'clear picture',clear picture,2
+506,219,'great sound',great sound,2
+507,219,'10 nebula customer support',10 nebula customer support,4
+508,219, '10',10,1
+509,220,'well built device',well built device,3
+510,220, 'great customer support',great customer support,3
+511,221,'great product',great product,2
+512,221,'great support',great support,2
+513,222,'work great',work great,2
+514,222,'thing',thing,1
+515,222, 'figure',figure,1
+516,222, 'couple',couple,1
+517,223,'nintendo switch',nintendo switch,2
+518,223, 'fantastic',fantastic,1
+519,223,'plex',plex,1
+520,223, 'fantastic',fantastic,1
+521,224,'well',well,1
+522,224, 'product',product,1
+523,224, 'expect',expect,1
+524,225,'favorite technical tool',favorite technical tool,3
+525,225, 'toy ...',toy,1
+526,225, 'quickly become',quickly become,2
+527,226,'thing',thing,1
+528,226, 'love',love,1
+529,227,'bright',bright,1
+530,227,'portable',portable,1
+531,227,'use',use,1
+532,227, 'easy',easy,1
+533,228,'amaze customer service',amaze customer service,3
+534,228, 'great project',great project,2
+535,229,'exceed expectation',exceed expectation,2
+536,230,'great alternative purchase',great alternative purchase,3
+537,231,'tin',tin,1
+538,231, 'say',say,1
+539,231, 'exactly',exactly,1
+540,231,'good support',good support,2
+541,232,'size',size,1
+542,232, 'price',price,1
+543,232, 'great',great,1
+544,233,"'`` best thing ive ever purchase """"'",best thing ive ever purchase,5
+545,234,'good product',good product,2
+546,235,'super easy portable projector',super easy portable projector,4
+547,236,'obsess',obsess,1
+548,237,'great theater',great theater,2
+549,237, 'pocket',pocket,1
+550,238,'solid product hbogo work',solid product hbogo work,4
+551,238, 'great support',great support,2
+552,238, 'addition',addition,1
+553,239,'bestest portable projector',bestest portable projector,3
+554,240,'tiny package',tiny package,2
+555,240, 'great thing',great thing,2
+556,240, 'come',come,1
+557,241,'great moment',great moment,2
+558,242,'super dark room',super dark room,3
+559,242, 'work well',work well,2
+560,243,'not say enough',not say enough,3
+561,243,'love',love,1
+562,244,'lot',lot,1
+563,244, 'buck',buck,1
+564,244, 'bang',bang,1
+565,245,'work fantastic',work fantastic,2
+567,246,'great picture quality',great picture quality,3
+568,247,'built like',built like,2
+569,247, 'tank',tank,1
+570,248,'affordable',affordable,1
+571,248,'portable',portable,1
+572,248,'easy setup projector',easy setup projector,3
+573,249,'small container',small container,2
+574,249, 'big projector',big projector,2
+575,250,'great projector',great projector,2
+576,251,'well',well,1
+577,251, 'expect',expect,1
+578,252,'super awesome mini smart projector buy',super awesome mini smart projector buy,6
+579,253,'wow',wow,1
+580,253,'cool',cool,1
+582,254,'great product',great product,2
+583,255,'fantasticoverall',fantasticoverall,1
+584,256,'good projector',good projector,2
+585,257,'unbelievably small',unbelievably small,2
+586,257,'good picture',good picture,2
+587,257, 'loud',loud,1
+588,258,'great picture quality',great picture quality,3
+589,258, 'use',use,1
+590,258, 'ease',ease,1
+591,259,'super portable projector',super portable projector,3
+592,259, 'great customer service',great customer service,3
+593,260,'solid picture',solid picture,2
+594,260, 'audio quality',audio quality,2
+595,261,'love',love,1
+596,262,'love',love,1
+597,263,'great portable projector 👍💯👍',great portable projector 👍💯👍,4
+598,264,'anker',anker,1
+599,265,'pretty awesome',pretty awesome,2
+600,266,'easy set',easy set,2
+601,266, 'easy',easy,1
+602,266, 'use',use,1
+603,267,'great little projector',great little projector,3
+604,268,'worth every penny',worth every penny,3
+605,269,'great little portable projector',great little portable projector,4
+606,270,'dark hotel room nicely',dark hotel room nicely,4
+607,270, 'project',project,1
+608,270,'kid use',kid use,2
+609,270, 'room',room,1
+610,270, 'friend',friend,1
+611,271,'worth',worth,1
+612,272,'not',not,1
+613,272, 'disappointed',disappointed,1
+614,273,'outdoor movie night',outdoor movie night,3
+615,274,'great quality small size projector',great quality small size projector,5
+616,275,'awesome little device',awesome little device,3
+617,276,'good product',good product,2
+618,277,'watch tv',watch tv,2
+619,277, 'kid love',kid love,2
+620,277, 'room',room,1
+621,277, 'able',able,1
+622,278,'another great anker product',another great anker product,4
+623,279,'home movie theater',home movie theater,3
+624,279, 'kid love',kid love,2
+625,279, 'novelty',novelty,1
+626,280,'excellent product',excellent product,2
+627,281,'yes',yes,1
+628,282,'great value',great value,2
+629,283,'great product',great product,2
+630,284,'great mini projector',great mini projector,3
+631,285,'not adjust brightness',not adjust brightness,3
+632,286,'big thing come',big thing come,3
+633,286, 'small package',small package,2
+634,287,'dope',dope,1
+635,288,'work',work,1
+636,288, 'expect',expect,1
+637,289,'nice',nice,1
+638,290,'month',month,1
+639,290, 'broke',broke,1
+640,290,'ran great prior',ran great prior,3
+641,291,'not good enough',not good enough,3
+642,291, 'movie night',movie night,2
+643,291, 'good',good,1
+644,291, 'presentation',presentation,1
+645,292,'amaze',amaze,1
+646,293,'little wonder',little wonder,2
+647,294,'superior quality',superior quality,2
+648,294, 'price',price,1
+649,295,'enough battery capacity',enough battery capacity,3
+650,295, 'good value',good value,2
+651,295, 'full movie',full movie,2
+652,295, 'watch',watch,1
+653,295, 'actually',actually,1
+654,296,'small gathering',small gathering,2
+655,296, 'party',party,1
+656,296, 'great',great,1
+657,296, 'friend',friend,1
+658,297,'overall great product',overall great product,3
+659,298,'excellent product well',excellent product well,3
+660,298, 'expect',expect,1
+661,299,'home dream',home dream,2
+662,299, 'away',away,1
+663,300,'great little projector',great little projector,3
+664,301,'awesome',awesome,1
+666,302,'work great',work great,2
+668,303,'plex capable portable projector',plex capable portable projector,4
+669,303, 'hit',hit,1
+670,304,'projector',projector,1
+671,304, 'love',love,1
+672,305,'movie',movie,1
+673,306,'worth every penny',worth every penny,3
+674,307,'miss',miss,1
+675,308,'amaze quality',amaze quality,2
+676,309,'great little projector',great little projector,3
+677,310,'great product',great product,2
+678,310,'unfortunately',unfortunately,1
+679,311,'wonderful',wonderful,1
+680,312,'fun device',fun device,2
+681,313,'use',use,1
+682,313, 'easy',easy,1
+683,314,'nighttime backyard movie',nighttime backyard movie,3
+684,314, 'perfect',perfect,1
+685,315,'great little projector',great little projector,3
+686,316,'well',well,1
+687,316, 'expect',expect,1
+688,317,'good projector',good projector,2
+689,317, 'price',price,1
+690,318,'great picture sound',great picture sound,3
+691,319,'small venue',small venue,2
+692,319, 'good',good,1
+693,320,'bad mofo',bad mofo,2
+694,321,'not wait',not wait,2
+695,321, 'use',use,1
+696,321, 'outdoors',outdoors,1
+697,321, 'love',love,1
+699,322,'awesome',awesome,1
+700,323,'perfect picture quality',perfect picture quality,3
+701,323, 'easy setup',easy setup,2
+702,324,'surprise',surprise,1
+703,325,'versatile',versatile,1
+704,325, 'portable',portable,1
+705,326,'buy 10',buy 10,2
+706,326, 'need',need,1
+707,327,'good product',good product,2
+708,328,'go',go,1
+709,329,'love love love',love love love,3
+710,330,'nice little projector',nice little projector,3
+711,331,'really nice',really nice,2
+712,331, 'size',size,1
+713,332,'great buy',great buy,2
+714,332,'try',try,1
+715,332, 'suggest',suggest,1
+716,333,'good product',good product,2
+717,333, 'recommend',recommend,1
+718,334,'best',best,1
+719,335,'great sound',great sound,2
+720,335, 'easy set',easy set,2
+721,335, 'picture',picture,1
+722,336,'product watch netflix',product watch netflix,3
+723,336, 'work fantastic',work fantastic,2
+724,336, 'physically use',physically use,2
+725,336, 'walk',walk,1
+726,336, 'turn',turn,1
+727,336, 'stayed',stayed,1
+728,336, 'setup',setup,1
+729,336, 'phone',phone,1
+730,336, 'not',not,1
+731,336, 'easy',easy,1
+732,336,'recommend',recommend,1
+733,336, 'product',product,1
+734,336, 'not',not,1
+736,337,'amaze projector',amaze projector,2
+737,338,'wonderful device',wonderful device,2
+738,339,'work great',work great,2
+739,340,'buen producto',buen producto,2
+740,341,'size',size,1
+741,341, 'great',great,1
+742,342,'awsome',awsome,1
+743,343,'great product ... great customer support',great product great customer support,5
+744,344,'great surprise',great surprise,2
+745,345,'work great',work great,2
+746,345, 'afghanistan',afghanistan,1
+748,346,'excellent product',excellent product,2
+749,347,'little guy',little guy,2
+750,347, 'awesome',awesome,1
+751,347,'large projector ...',large projector,2
+752,347, 'job',job,1
+753,348,'almost perfect',almost perfect,2
+754,349,'fantastic picture',fantastic picture,2
+755,349, 'sound',sound,1
+756,349, 'setup',setup,1
+757,349, 'easy',easy,1
+758,350,'quality',quality,1
+759,351,'price',price,1
+760,351, 'awesome',awesome,1
+761,352,'awesome',awesome,1
+762,353,'theater type device',theater type device,3
+763,354,'incorporate',incorporate,1
+764,355,'great portable projector',great portable projector,3
+765,355,'good price point',good price point,3
+766,355,'worth',worth,1
+768,356,'worth',worth,1
+769,356, 'money',money,1
+770,357,'need tweak',need tweak,2
+771,357, 'good',good,1
+772,358,'fantastic portable projector',fantastic portable projector,3
+773,359,'camp gadget',camp gadget,2
+774,359, 'must',must,1
+775,360,'best gift',best gift,2
+776,360, 'christmas',christmas,1
+777,361,'soda',soda,1
+778,361, 'movie',movie,1
+779,362,'muy satisfecho con la compra',muy satisfecho con la compra,5
+780,363,'amaze',amaze,1
+781,364,'home movie',home movie,2
+782,365,'worth',worth,1
+783,365, 'price',price,1
+784,366,'satisfied',satisfied,1
+785,367,'great performance great service fantastic capsule',great performance great service fantastic capsule,6
+786,368,'awesome product',awesome product,2
+787,369,'nice projector',nice projector,2
+788,369, 'great picture',great picture,2
+789,370,'make everything',make everything,2
+790,370, 'easy',easy,1
+791,371,'anker customer service',anker customer service,3
+792,372,'wow great projector',wow great projector,3
+793,373,'great',great,1
+794,374,'lo mejor',lo mejor,2
+795,375,'great sound',great sound,2
+796,375, 'resolution',resolution,1
+797,376,'wonderful device',wonderful device,2
+798,376,'watch movie anywhere around ...',watch movie anywhere around,4
+799,377,'amaze projector',amaze projector,2
+800,378,'great item',great item,2
+801,379,'love',love,1
+802,379, 'little',little,1
+803,380,'awesome',awesome,1
+804,381,'great image quality',great image quality,3
+805,382,'work good',work good,2
+806,382, 'everything',everything,1
+807,383,'excellent product',excellent product,2
+808,383,'show',show,1
+809,383, 'others',others,1
+810,384,'great purchase',great purchase,2
+811,385,'amaze',amaze,1
+813,386,'projector',projector,1
+814,387,'nebula 5 star',nebula 5 star,3
+815,388,'best projector',best projector,2
+816,389,'work great',work great,2
+817,389, 'tripod',tripod,1
+818,390,'perfect christmas gift',perfect christmas gift,3
+819,391,'amaze',amaze,1
+820,392,'great',great,1
+821,392, 'compact',compact,1
+822,393,'great little projector',great little projector,3
+823,394,'great buy',great buy,2
+824,395,'kid love',kid love,2
+825,395, 'corner ...',corner,1
+826,395, 'throw',throw,1
+827,396,'versatile',versatile,1
+828,396, 'fun',fun,1
+829,397,"'amaze """"'",amaze,1
+831,398,'projector work',projector work,2
+832,398,'savvy ...',savvy,1
+833,398, 'not electronic',not electronic,2
+834,398, 'wife',wife,1
+835,399,'sell',sell,1
+836,399, 'buy',buy,1
+837,400,'worth',worth,1
+838,400, 'money',money,1
+839,401,'love',love,1
+840,402,'awesome',awesome,1
+841,403,'great projector',great projector,2
+842,403,'helpful team',helpful team,2
+843,404,'amaze mini projector',amaze mini projector,3
+844,405,'recommend',recommend,1
+845,405, 'clearance',clearance,1
+846,405, 'buy',buy,1
+847,406,'good',good,1
+848,407,'get rid',get rid,2
+849,407, 'tv',tv,1
+851,408,'fun',fun,1
+852,409,'amazing 👍',amazing 👍,2
+853,410,'unbelievable amaze',unbelievable amaze,2
+854,411,'awesome product',awesome product,2
+855,412,'extremely portable',extremely portable,2
+856,412, 'capable projector',capable projector,2
+857,413,'use',use,1
+858,413, 'easy',easy,1
+859,414,'easy',easy,1
+860,414, 'cool',cool,1
+861,415,'perfect',perfect,1
+862,416,'`` great product',great product,2
+863,416," 'need """"'",need,1
+864,416, 'didnt know',didnt know,2
+865,417,'good',good,1
+866,417,'tiny cinema 📽',tiny cinema 📽,3
+867,418,'tiny projector',tiny projector,2
+868,418, 'awesome quality',awesome quality,2
+869,418, 'sound',sound,1
+870,419,'college',college,1
+871,420,'wow factor',wow factor,2
+872,420,'small size',small size,2
+873,420, 'bang',bang,1
+874,421,'good',good,1
+875,422,'awesome',awesome,1
+876,423,'great little projector',great little projector,3
+877,423, 'speaker',speaker,1
+878,424,'cool look',cool look,2
+879,425,'worth',worth,1
+880,425, 'price',price,1
+881,426,'five star',five star,2
+882,427,'recommend',recommend,1
+883,428,'great',great,1
+884,428, 'game',game,1
+885,429,'fantastic addition',fantastic addition,2
+886,430,'awesome',awesome,1
+887,431,'small',small,1
+888,432,'awesome',awesome,1
+889,432, 'advertised',advertised,1
+890,433,'perfect',perfect,1
+891,434,'de esas compras compulsivas que valen la pena',de esas compras compulsivas que valen la pena,8
+892,435,'cool',cool,1
+893,436,'great picture',great picture,2
+894,437,'flexible',flexible,1
+895,437,'portable',portable,1
+896,437,'powerful',powerful,1
+897,438,'wonderful projector',wonderful projector,2
+898,438, 'recommend',recommend,1
+899,439,'audio delay',audio delay,2
+900,440,'anker address issue',anker address issue,3
+901,441,'fun device',fun device,2
+902,441,'great',great,1
+903,441, 'family',family,1
+904,442,'great',great,1
+905,443,'great product',great product,2
+906,444,'great small portable projector',great small portable projector,4
+907,444, 'screen ambition',screen ambition,2
+908,444, 'big',big,1
+909,445,'highly recommend',highly recommend,2
+910,445, 'projector',projector,1
+911,446,'great little projector',great little projector,3
+912,446, 'good battery',good battery,2
+913,446, 'size',size,1
+914,446, 'pop',pop,1
+915,447,'perfect gift',perfect gift,2
+916,448,'love',love,1
+917,449,'super fun',super fun,2
+918,450,'great buy',great buy,2
+919,451,'best rapport quality',best rapport quality,3
+920,451, 'price',price,1
+921,452,'everybody love',everybody love,2
+922,452, 'size',size,1
+923,452, 'picture',picture,1
+924,452, 'impressed',impressed,1
+925,453,'absolutely recommend',absolutely recommend,2
+926,454,'good',good,1
+927,455,'like',like,1
+928,456,'great device',great device,2
+930,457,'great projector',great projector,2
+931,457,'clear',clear,1
+932,457, 'bright',bright,1
+933,458,'amaze resolution',amaze resolution,2
+934,459,'great projector',great projector,2
+935,460,'100 portable projector',100 portable projector,3
+936,461,'size',size,1
+937,461, 'powerful',powerful,1
+938,462,'good product',good product,2
+939,463,'great mini projector',great mini projector,3
+940,463,'highly recommend',highly recommend,2
+941,464,'work great',work great,2
+942,464, 'android',android,1
+943,465,'greatly pleased',greatly pleased,2
+944,466,'small',small,1
+946,466,"'carry """"'",carry,1
+947,466, 'easy',easy,1
+948,467,'solid build',solid build,2
+949,467,'great sound',great sound,2
+950,468,'ibrahim mohmed',ibrahim mohmed,2
+951,469,'nice',nice,1
+952,470,'work good',work good,2
+953,471,'good quality great picture',good quality great picture,4
+954,471, 'price even well',price even well,3
+955,471, 'pretty clear',pretty clear,2
+956,471," '100 """"'",100,1
+957,471,"'85 """"'",85,1
+958,471, 'use',use,1
+959,472,'awesome gadget',awesome gadget,2
+960,473,'two thumb',two thumb,2
+961,474,'perfect gift',perfect gift,2
+962,475,'nice projector',nice projector,2
+963,475, 'portable',portable,1
+965,476,'worth',worth,1
+966,477,'wonderfull',wonderfull,1
+967,478,'great product',great product,2
+968,479,'best projector',best projector,2
+969,480,'thanks',thanks,1
+970,481,'use',use,1
+971,481, 'easy',easy,1
+972,482,'personal theatre',personal theatre,2
+973,482, 'go',go,1
+974,483,'nice projector',nice projector,2
+975,484,'great brightness',great brightness,2
+976,485,'great service',great service,2
+977,485, 'great product',great product,2
+978,486,'work great',work great,2
+979,487,'excite',excite,1
+981,488,'upset',upset,1
+982,488, 'unsure',unsure,1
+983,488, 'people',people,1
+984,489,'great buy',great buy,2
+985,489, 'not',not,1
+986,489, 'disappointed',disappointed,1
+987,490,'work anywhere',work anywhere,2
+988,491,'awesome projector',awesome projector,2
+989,492,'best thing ever',best thing ever,3
+990,493,'decent little projector',decent little projector,3
+991,494,'amaze picture',amaze picture,2
+992,495,'great picture',great picture,2
+993,496,'perfect',perfect,1
+994,497,'perfect product',perfect product,2
+995,498,'thank',thank,1
+996,499,'good',good,1
+997,499, 'expensive',expensive,1
+998,500,'nice little projector',nice little projector,3
+999,501,'use',use,1
+1000,501, 'easy',easy,1
+1001,502,'portable',portable,1
+1003,503,'five star',five star,2
+1004,504,'great customer service',great customer service,3
+1005,505,'awesome product',awesome product,2
+1006,506,'good buy glad',good buy glad,3
+1007,507,'daughter love',daughter love,2
+1008,508,'five star',five star,2
+1009,509,'darn remote',darn remote,2
+1010,509, 'much',much,1
+1011,509, 'love',love,1
+1012,510,'excelent product',excelent product,2
+1013,511,'elegant appearance',elegant appearance,2
+1014,512,'excellent product',excellent product,2
+1016,513,'truly amaze',truly amaze,2
+1017,514,'great',great,1
+1018,515,'summer long',summer long,2
+1019,515, 'outdoor movie',outdoor movie,2
+1021,516,'wonderful',wonderful,1
+1022,517,'regret',regret,1
+1023,518,'good price',good price,2
+1024,518, 'quality',quality,1
+1025,519,'high quality',high quality,2
+1026,520,'great starter projector',great starter projector,3
+1027,521,'great',great,1
+1028,522,'outdoor view',outdoor view,2
+1029,522, 'great',great,1
+1030,523,'great',great,1
+1032,524,'far',far,1
+1033,524, 'best',best,1
+1034,525,'product',product,1
+1035,525, 'buy',buy,1
+1037,526,'love',love,1
+1038,526, 'future',future,1
+1040,527,'iphone',iphone,1
+1041,527, 'hook',hook,1
+1042,528,'get',get,1
+1043,529,'price point',price point,2
+1044,529, 'great quality',great quality,2
+1045,530,'wow',wow,1
+1046,531,'great',great,1
+1047,532,'amaze little projector',amaze little projector,3
+1048,533,'love',love,1
+1049,534,'sized movie theater',sized movie theater,3
+1050,534, 'nice',nice,1
+1051,535,'great customer service',great customer service,3
+1052,535, 'fantastic product',fantastic product,2
+1053,536,'never live without',never live without,3
+1054,536, 'nebula',nebula,1
+1055,537,'best purchase ever',best purchase ever,3
+1056,538,'amaze little projector',amaze little projector,3
+1057,539,'worth',worth,1
+1058,539, 'cash',cash,1
+1059,540,'five star',five star,2
+1060,541,'5',5,1
+1061,541, '5',5,1
+1062,541, '3',3,1
+1063,542,'good',good,1
+1064,543,'purchase',purchase,1
+1065,543, 'glad',glad,1
+1066,544,'great picture',great picture,2
+1067,544,'great sound',great sound,2
+1068,545,'best purchase ever',best purchase ever,3
+1069,546,'five star',five star,2
+1070,547,'great',great,1
+1071,548,'superb device',superb device,2
+1072,549,'projector',projector,1
+1073,549, 'love',love,1
+1074,550,'outstanding tv replacement',outstanding tv replacement,3
+1075,550,'small',small,1
+1076,550,'responsive',responsive,1
+1077,550,'wall ...',wall,1
+1078,550, 'bright image',bright image,2
+1079,551,'nice compact projector',nice compact projector,3
+1080,551, 'travel',travel,1
+1081,551, 'home',home,1
+1082,552,'five star',five star,2
+1083,553,'amaze',amaze,1
+1084,554,'good',good,1
+1085,555,'user friendly device',user friendly device,3
+1086,556,'awesome product',awesome product,2
+1087,557,'pas',pas,1
+1088,557, 'good',good,1
+1089,558,'nice product',nice product,2
+1090,559,'feliz con la compra',feliz con la compra,4
+1091,560,'beautiful',beautiful,1
+1092,560,'well worth',well worth,2
+1093,561,'thing',thing,1
+1094,561, 'love',love,1
+1095,562,'sale service',sale service,2
+1096,562, 'impressive',impressive,1
+1097,563,'amaze customer service',amaze customer service,3
+1098,564,'great value',great value,2
+1099,564, 'money',money,1
+1100,565,'great purchase',great purchase,2
+1102,566,'satisfied',satisfied,1
+1103,567,'theater anywhere',theater anywhere,2
+1104,568,'satisfied',satisfied,1
+1105,568, 'product',product,1
+1106,569,'nice portable entrrtainment',nice portable entrrtainment,3
+1107,570,'screen size',screen size,2
+1108,570, 'look great',look great,2
+1109,570, 'think',think,1
+1110,570, 'side',side,1
+1111,570, 'say',say,1
+1112,570, 'house',house,1
+1113,570, '80',80,1
+1114,571,'good',good,1
+1115,572,'handy',handy,1
+1116,572, 'clear',clear,1
+1117,573,'powerful',powerful,1
+1118,573, 'little',little,1
+1119,574,'worth',worth,1
+1120,575,'love',love,1
+1121,576,'phenomenal product',phenomenal product,2
+1122,577,'totally like',totally like,2
+1123,577, 'product',product,1
+1124,578,'portabilidad',portabilidad,1
+1125,579,'view',view,1
+1126,579, 'sound',sound,1
+1127,580,'fun',fun,1
+1128,581,'n',n,1
+1129,582,'good',good,1
+1130,582, 'bedroom',bedroom,1
+1131,583,'great product',great product,2
+1132,584,'1 projector',1 projector,2
+1133,585,'fantastic projector',fantastic projector,2
+1134,586,'home use',home use,2
+1136,587,'great profuct',great profuct,2
+1137,588,'1000000',1000000,1
+1138,589,'love',love,1
+1139,590,'thanks',thanks,1
+1140,591,'mobile nebula',mobile nebula,2
+1141,592,'kid love',kid love,2
+1142,593,'stun beauty',stun beauty,2
+1143,594,'love',love,1
+1144,595,'value',value,1
+1145,595, 'money',money,1
+1146,596,'dark space',dark space,2
+1147,596, 'use',use,1
+1148,596,'good little projector',good little projector,3
+1149,597,'amaze nebula',amaze nebula,2
+1150,598,'ok',ok,1
+1151,599,'around great product',around great product,3
+1152,600,'use',use,1
+1153,600, 'easy',easy,1
+1154,601,'market',market,1
+1155,601, 'best',best,1
+1156,602,'crystal clear picture',crystal clear picture,3
+1157,602, 'portable',portable,1
+1158,603,'cool projector',cool projector,2
+1159,604,'great product',great product,2
+1160,605,'great',great,1
+1161,606,'big screen',big screen,2
+1162,606,'great quality',great quality,2
+1163,607,'good product',good product,2
+1164,607, 'apple user',apple user,2
+1165,607, 'non',non,1
+1166,608,'really surprised',really surprised,2
+1168,610,'awesome',awesome,1
+1169,611,'n',n,1
+1170,612,'recommend',recommend,1
+1171,613,'good',good,1
+1172,614,'amaze nebula projector',amaze nebula projector,3
+1173,615,'size',size,1
+1174,615, 'excellent',excellent,1
+1175,615, 'cost',cost,1
+1176,616,'bright',bright,1
+1177,617,'great projector',great projector,2
+1179,618,'recommend',recommend,1
+1180,618, 'product',product,1
+1181,619,'five star',five star,2
+1182,620,'great picture sound',great picture sound,3
+1183,621,'portability',portability,1
+1184,621, 'picture',picture,1
+1185,622,'great small device',great small device,3
+1186,623,'use',use,1
+1187,623, 'easy',easy,1
+1188,624,'amaze',amaze,1
+1189,625,'love',love,1
+1190,626,'great little projector',great little projector,3
+1191,627,'nebula',nebula,1
+1192,627, 'enjoy',enjoy,1
+1193,627, 'child',child,1
+1194,627, 'bought',bought,1
+1195,628,'take',take,1
+1196,628, 'everywhere',everywhere,1
+1197,628, 'best',best,1
+1198,629,'go movie theater',go movie theater,3
+1199,630,'want',want,1
+1200,630, 'far',far,1
+1201,630, 'adjust',adjust,1
+1202,631,"'concerned c folk ive encounter """"'",concerned c folk ive encounter,5
+1203,631, '`` anker customer service ..',anker customer service,3
+1204,631, 'possibly',possibly,1
+1205,632,'work great',work great,2
+1206,632,'love',love,1
+1207,633,'tripod',tripod,1
+1208,633, 'need',need,1
+1209,634,'great product',great product,2
+1210,635,'good product',good product,2
+1211,636,'excellent value',excellent value,2
+1212,636, 'money',money,1
+1213,637,'compact powerful projector',compact powerful projector,3
+1214,638,'5 star',5 star,2
+1215,639,'love',love,1
+1216,640,'great little portable projector',great little portable projector,4
+1217,641,'compact device',compact device,2
+1218,641, 'capability',capability,1
+1219,641, 'amaze',amaze,1
+1220,641,'default app ...',default app,2
+1221,641, 'love',love,1
+1222,641, 'aptoide',aptoide,1
+1223,642,'muito bacana',muito bacana,2
+1224,643,'use',use,1
+1225,643, 'fun',fun,1
+1226,643, 'convenience',convenience,1
+1227,644,'not love',not love,2
+1228,645,'el tamaño son muy buenos',el tamaño son muy buenos,5
+1229,645, 'la calidad',la calidad,2
+1230,646,'love',love,1
+1231,647,"'awesome """"'",awesome,1
+1233,648,'sonido óptimas',sonido óptimas,2
+1234,648, 'calidad',calidad,1
+1235,649,'mucho',mucho,1
+1236,649, 'like',like,1
+1237,650,'great little projector',great little projector,3
+1238,651,'awesome gift',awesome gift,2
+1239,652,'not connect chromcast',not connect chromcast,3
+1240,652, 'firestick',firestick,1
+1241,652, 'device',device,1
+1242,653,'great product',great product,2
+1243,654,'good choice',good choice,2
+1244,655,'love',love,1
+1245,656,'watch anywhere',watch anywhere,2
+1246,656,'love',love,1
+1247,657,'great product',great product,2
+1248,658,'great projector',great projector,2
+1249,658, 'affordable price',affordable price,2
+1250,659,'great quality',great quality,2
+1251,660,'best',best,1
+1252,660, 'ashley',ashley,1
+1253,661,'portable smart projector',portable smart projector,3
+1254,661, 'economical',economical,1
+1255,662,'wow',wow,1
+1256,663,'impressive',impressive,1
+1257,664,'awesome',awesome,1
+1258,665,'gift',gift,1
+1259,666,'great product',great product,2
+1260,667,'great product',great product,2
+1261,668,'good product',good product,2
+1262,669,'work',work,1
+1263,669, 'well',well,1
+1264,670,'travel',travel,1
+1265,670, 'projector',projector,1
+1266,670, 'home',home,1
+1267,670, 'excellent',excellent,1
+1268,671,'great buy',great buy,2
+1269,672,'great',great,1
+1270,673,'great portability',great portability,2
+1271,674,'great item',great item,2
+1272,675,'😍',😍,1
+1273,676,'nice',nice,1
+1274,677,'perfect',perfect,1
+1275,678,'sales service',sales service,2
+1276,678, 'best projector',best projector,2
+1277,679,'size',size,1
+1278,679, 'portability',portability,1
+1279,680,'best',best,1
+1281,681,'high quality',high quality,2
+1282,682,'love',love,1
+1284,684,'good product',good product,2
+1285,685,'long battery life',long battery life,3
+1286,686,'gret',gret,1
+1287,687,'great product',great product,2
+1288,688,'excelente producto',excelente producto,2
+1289,689,'use',use,1
+1290,689, 'easy',easy,1
+1291,690,'great device',great device,2
+1292,691,'worth',worth,1
+1293,691, 'money',money,1
+1294,691,'professional trainer',professional trainer,2
+1295,692,'around projector',around projector,2
+1296,692, 'awesome',awesome,1
+1297,693,'great product',great product,2
+1298,694,'good',good,1
+1299,695,'five star',five star,2
+1300,696,'excelente',excelente,1
+1301,697,'worth',worth,1
+1302,697, 'buy',buy,1
+1303,698,'great bang',great bang,2
+1304,698, 'buck',buck,1
+1305,699,'great quality',great quality,2
+1306,699,'sound',sound,1
+1307,699,'picture',picture,1
+1308,699,'size',size,1
+1309,700,'high quality equipment',high quality equipment,3
+1310,701,"'okay """"'",okay,1
+1312,702,'little package',little package,2
+1313,702, 'big sound',big sound,2
+1314,702, 'picture',picture,1
+1315,703,'five star',five star,2
+1316,704,'five star',five star,2
+1317,705,'great',great,1
+1318,706,'good product',good product,2
+1319,707,'great',great,1
+1320,707, 'go',go,1
+1321,708,'expect',expect,1
+1322,709,'best portable projector',best portable projector,3
+1323,710,'good product',good product,2
+1324,711,'work great',work great,2
+1325,712,'love',love,1
+1326,713,'like',like,1
+1327,714,'amaze picture quality',amaze picture quality,3
+1328,715,'worth',worth,1
+1329,715, 'money',money,1
+1330,716,'good',good,1
+1331,716,'becomes great',becomes great,2
+1332,716, 'update',update,1
+1333,716, 'hope',hope,1
+1334,716,'host wifi',host wifi,2
+1335,716, 'airplay w',airplay w,2
+1336,716, 'need',need,1
+1337,716, 'darken',darken,1
+1338,716, 'brighten',brighten,1
+1339,716, 'ap',ap,1
+1340,716, 'act',act,1
+1341,716, 'ability',ability,1
+1342,717,'five star',five star,2
+1343,718,'nice',nice,1
+1344,719,'five star',five star,2
+1345,720,'good',good,1
+1346,721,'work ...',work,1
+1347,722,'around portable smart projector',around portable smart projector,4
+1348,722, 'great',great,1
+1349,723,'cool',cool,1
+1350,723,'polish',polish,1
+1351,723, 'need',need,1
+1352,723, 'little',little,1
+1353,723, 'great',great,1
+1354,724,'redeem customer service',redeem customer service,3
+1355,725,'slender body',slender body,2
+1356,725, 'nice projector',nice projector,2
+1357,726,'amaze gadget',amaze gadget,2
+1358,727,'great image',great image,2
+1359,727,'well manufacture',well manufacture,2
+1360,728,'five star',five star,2
+1361,729,'five star',five star,2
+1362,730,'five star',five star,2
+1363,731,'good little projector',good little projector,3
+1364,732,'thoughtful',thoughtful,1
+1365,732, 'anker',anker,1
+1366,733,'amaze thing come',amaze thing come,3
+1367,733, 'small package',small package,2
+1368,734,'picture quality',picture quality,2
+1369,734, 'astound give',astound give,2
+1370,734, 'thing',thing,1
+1371,734, 'size',size,1
+1372,735,'almost perfect',almost perfect,2
+1373,735,'best around',best around,2
+1374,736,'image quality',image quality,2
+1375,736, 'best balance',best balance,2
+1376,736,'audio quality',audio quality,2
+1377,736, 'price',price,1
+1378,737,'great portable gadget',great portable gadget,3
+1379,738,'battery issue',battery issue,2
+1380,738,'great customer service',great customer service,3
+1381,739,'great quality',great quality,2
+1382,739, 'price',price,1
+1383,740,'great portable cinema',great portable cinema,3
+1384,741,'excellent',excellent,1
+1385,741,'great design',great design,2
+1386,741,'best ive see',best ive see,3
+1387,742,'overall amaze projector',overall amaze projector,3
+1388,743,'cool',cool,1
+1390,744,'incredible piece',incredible piece,2
+1391,744, 'technology',technology,1
+1392,745,'youtube tv work',youtube tv work,3
+1393,745,'😆😆😆',😆😆😆,1
+1394,746,'summer movie night upgraded',summer movie night upgraded,4
+1395,747,'continue create thing like anker nebula',continue create thing like anker nebula,6
+1396,747, 'keep update',keep update,2
+1397,747, 'version',version,1
+1398,748,'pico projector',pico projector,2
+1399,748, 'great sound',great sound,2
+1400,748, 'decent picture',decent picture,2
+1401,749,'great price',great price,2
+1402,749, 'fantastic product',fantastic product,2
+1403,750,'perfect famaily gift',perfect famaily gift,3
+1404,750,'great christmas gift',great christmas gift,3
+1405,750, 'love buygin',love buygin,2
+1406,750, 'mad',mad,1
+1407,750, 'kid',kid,1
+1408,751,'awesome',awesome,1
+1409,752,'amaze',amaze,1
+1410,753,'look',look,1
+1411,754,'excellent purchase',excellent purchase,2
+1412,754, 'kid',kid,1
+1413,755,'outdoor movie time',outdoor movie time,3
+1414,756,'good',good,1
+1415,757,'projector balance small size',projector balance small size,4
+1416,757, 'perfect mini',perfect mini,2
+1417,757, 'feature',feature,1
+1418,758,'amaze little projector',amaze little projector,3
+1419,759,'work wonderfully',work wonderfully,2
+1420,760,'amaze customer service team',amaze customer service team,4
+1421,760, 'incredible projector',incredible projector,2
+1422,760, 'back',back,1
+1423,761,'convenient device',convenient device,2
+1424,761,'great support',great support,2
+1425,762,'best projector',best projector,2
+1426,763,'great picture size',great picture size,3
+1427,763, 'use',use,1
+1428,763, 'easy',easy,1
+1429,764,'blown use away easy',blown use away easy,4
+1430,764, 'much adjustment',much adjustment,2
+1431,764, 'use',use,1
+1432,764, 'thing',thing,1
+1433,764, 'love',love,1
+1435,765,'size projector',size projector,2
+1436,765, 'go anywhere',go anywhere,2
+1437,765, 'soda',soda,1
+1438,766,'best android projector ...',best android projector,3
+1439,767,'muy versátil',muy versátil,2
+1440,768,'great light weight projector',great light weight projector,4
+1441,768, 'work',work,1
+1442,768, 'use',use,1
+1444,769,'great projector',great projector,2
+1445,770,'great customer support',great customer support,3
+1446,770, 'good projector',good projector,2
+1447,771,'email anker',email anker,2
+1448,771, 'need',need,1
+1449,772,'sound quality',sound quality,2
+1450,772, 'excellent picture',excellent picture,2
+1451,773,'good value',good value,2
+1452,774,'`` soda',soda,1
+1453,774, 'need',need,1
+1454,774, 'everything',everything,1
+1456,775,'great',great,1
+1457,775,'great',great,1
+1458,775, 'great',great,1
+1459,776,'recommend',recommend,1
+1460,777,'pleased',pleased,1
+1461,777,'expect',expect,1
+1462,777, 'exactly',exactly,1
+1463,778,'projector',projector,1
+1464,778, 'love',love,1
+1465,779,'projector work',projector work,2
+1466,780,'na',na,1
+1467,781,'buy',buy,1
+1469,782,'play music',play music,2
+1470,782, 'cell phone',cell phone,2
+1471,783,'good',good,1
+1472,784,'intelligence',intelligence,1
+1473,785,'worth',worth,1
+1474,785, 'price',price,1
+1475,786,'awesome projector',awesome projector,2
+1476,786,'totally replace',totally replace,2
+1477,786, 'tv',tv,1
+1478,787,'great purchase',great purchase,2
+1479,787,'husband say',husband say,2
+1480,787, 'exactly',exactly,1
+1481,788,'bright',bright,1
+1482,788,'clear',clear,1
+1483,788,'loud awesome',loud awesome,2
+1485,789,'camp outdoor',camp outdoor,2
+1486,789, 'great',great,1
+1487,790,'friend movie night',friend movie night,3
+1488,790, 'perfect',perfect,1
+1489,790, 'family',family,1
+1490,791,'popcan size movie theater',popcan size movie theater,4
+1491,791,'amaze',amaze,1
+1493,792,'little expensive',little expensive,2
+1494,792, 'good',good,1
+1495,793,'love',love,1
+1496,794,'pray',pray,1
+1497,795,'nice affordable projector',nice affordable projector,3
+1498,796,'small',small,1
+1499,797,'great transaction',great transaction,2
+1500,798,'great product',great product,2
+1501,799,'perfect',perfect,1
+1502,800,'great projector',great projector,2
+1503,801,'excelente',excelente,1
+1504,802,'love',love,1
+1505,803,'great product ... amaze customer service',great product amaze customer service,5
+1506,804,'excellent customer service',excellent customer service,3
+1507,805,'projector',projector,1
+1508,805, 'love',love,1
+1509,806,'great deal',great deal,2
+1510,807,'good',good,1
+1511,808,'awesome',awesome,1
+1512,809,'yep',yep,1
+1513,810,'really wonderful mini projector',really wonderful mini projector,4
+1515,811,"'amaze """"'",amaze,1
+1516,812,'use',use,1
+1517,812, 'fun',fun,1
+1518,812, 'easy',easy,1
+1519,813,'awesome',awesome,1
+1520,814,'powerful',powerful,1
+1521,814,'small package',small package,2
+1522,814, 'yet',yet,1
+1523,815,'great device',great device,2
+1524,815,'super handy',super handy,2
+1525,816,'love',love,1
+1526,817,'portable',portable,1
+1527,817, 'perfect',perfect,1
+1528,818,'perfect',perfect,1
+1529,819,'great projector',great projector,2
+1530,819, 'size',size,1
+1531,820,'outstanding product',outstanding product,2
+1532,820,'great quality',great quality,2
+1533,821,'best customer service ever',best customer service ever,4
+1534,822,'capsule control app',capsule control app,3
+1535,822, 'battery life make',battery life make,3
+1536,822, 'limited use',limited use,2
+1537,822, 'useful',useful,1
+1538,822, 'quality',quality,1
+1539,822, 'occur',occur,1
+1540,823,'great product',great product,2
+1541,824,'great',great,1
+1542,825,'excellent customer service',excellent customer service,3
+1543,826,'home',home,1
+1544,826, 'drive',drive,1
+1545,827,'recommend',recommend,1
+1546,827, 'anyone',anyone,1
+1547,828,'nice little projector',nice little projector,3
+1548,829,'work great',work great,2
+1549,829, 'small room',small room,2
+1550,830,'awesome',awesome,1
+1552,831,'worth every penny',worth every penny,3
+1554,832,'awesome',awesome,1
+1555,833,'great product',great product,2
+1556,833,'even well tech support ...',even well tech support,4
+1557,834,'dope color',dope color,2
+1558,834, 'size',size,1
+1559,835,'love',love,1
+1560,836,'love',love,1
+1562,837,'perfect portable projector',perfect portable projector,3
+1563,838,'great sound picture',great sound picture,3
+1564,838, 'speed',speed,1
+1565,839,'work great',work great,2
+1566,840,'great picture',great picture,2
+1567,840, 'sound',sound,1
+1568,841,'nice',nice,1
+1569,842,'awesome product',awesome product,2
+1570,843,'fun',fun,1
+1571,844,'portable projector',portable projector,2
+1572,844, 'enjoy',enjoy,1
+1573,845,'great device',great device,2
+1574,846,'portable projector',portable projector,2
+1575,846, 'great price',great price,2
+1576,847,'perfect little projector',perfect little projector,3
+1577,848,'recommend',recommend,1
+1578,849,'amaze',amaze,1
+1579,850,'good',good,1
+1580,851,'pretty good even',pretty good even,3
+1581,851, 'rough wall',rough wall,2
+1582,851, 'resolution',resolution,1
+1583,852,'good portable projector',good portable projector,3
+1584,852,'sale',sale,1
+1585,852, 'get',get,1
+1586,853,'theater',theater,1
+1587,853, 'house',house,1
+1588,853, 'drive',drive,1
+1589,854,'awesome little gadget',awesome little gadget,3
+1590,855,'must',must,1
+1591,856,'pretty good',pretty good,2
+1592,857,'best experience',best experience,2
+1593,857, 'bings',bings,1
+1594,858,'like',like,1
+1595,859,'love',love,1
+1596,860,'price u pay',price u pay,3
+1597,860, 'well worth',well worth,2
+1598,861,'love',love,1
+1599,862,'great product',great product,2
+1600,863,'daughter love',daughter love,2
+1601,864,'amaze little projector',amaze little projector,3
+1602,865,'awesome',awesome,1
+1603,866,'great projector',great projector,2
+1604,867,'worth',worth,1
+1605,867, 'purchase',purchase,1
+1606,868,'great product',great product,2
+1607,868, 'service',service,1
+1608,869,'compact',compact,1
+1609,870,'recommend',recommend,1
+1610,871,'portable',portable,1
+1611,872,'little nebula capsule projector',little nebula capsule projector,4
+1612,872, 'absollutely amaze',absollutely amaze,2
+1613,872,'many great feature',many great feature,3
+1614,872, 'packed',packed,1
+1616,873,'good camera stand',good camera stand,3
+1617,873, 'get',get,1
+1618,873,'perfect screen',perfect screen,2
+1619,873, 'make create',make create,2
+1620,873, 'easy',easy,1
+1621,874,'picture sound',picture sound,2
+1622,874, 'great quality',great quality,2
+1623,874, 'use',use,1
+1624,874, 'easy',easy,1
+1625,875,'amaze projector',amaze projector,2
+1627,876,'nice',nice,1
+1628,877,'great product easy',great product easy,3
+1629,877, 'use',use,1
+1630,878,'wowoto t8e',wowoto t8e,2
+1631,878, 'compare',compare,1
+1632,878,'truly portable device',truly portable device,3
+1633,878, 'nebula make',nebula make,2
+1634,878, 'great set',great set,2
+1635,878, 'compromise',compromise,1
+1636,879,'satisified',satisified,1
+1637,880,'filmmaker perspective',filmmaker perspective,2
+1638,881,'google play',google play,2
+1639,881, 'great',great,1
+1640,882,'`` want',want,1
+1641,882, 'love',love,1
+1642,882,'wouldnt love',wouldnt love,2
+1644,883,'test',test,1
+1645,883, 'outdoors',outdoors,1
+1646,883, 'home',home,1
+1647,883, 'group',group,1
+1648,884,"'iphone update """"'",iphone update,2
+1649,884, '`` didnt work',didnt work,2
+1650,885,'nice hardware design',nice hardware design,3
+1651,885, 'user experience',user experience,2
+1652,885, 'terrible',terrible,1
+1653,886,'little tweak',little tweak,2
+1654,886, 'could use',could use,2
+1655,886, 'amaze concept',amaze concept,2
+1656,887,'great little projector',great little projector,3
+1657,888,'work well',work well,2
+1658,888,'flaw',flaw,1
+1659,889,"'much """"'",much,1
+1660,889, 'small',small,1
+1662,890,'decent product',decent product,2
+1663,891,'anker customer support',anker customer support,3
+1664,891, 'best',best,1
+1665,892,'little thing',little thing,2
+1666,892, 'love',love,1
+1667,892,'unbelievable value',unbelievable value,2
+1668,892, 'get',get,1
+1669,893,'serious software flaw',serious software flaw,3
+1670,893, 'excellent little piece',excellent little piece,3
+1671,893, 'hardware',hardware,1
+1672,894,'great little projector',great little projector,3
+1673,894,'soda',soda,1
+1674,894, 'size',size,1
+1675,894, 'really',really,1
+1676,895,'small',small,1
+1677,895,'convenient projector',convenient projector,2
+1678,895,'bedroom set',bedroom set,2
+1679,895, 'awesome',awesome,1
+1680,896,'second attempt work well',second attempt work well,4
+1681,896, 'not good',not good,2
+1682,896, 'first experience',first experience,2
+1683,897,'family love',family love,2
+1684,898,'set',set,1
+1685,898, 'easy',easy,1
+1686,898,'plug',plug,1
+1687,898, 'play',play,1
+1688,899,'great little projector',great little projector,3
+1689,899, 'enjoyable experience',enjoyable experience,2
+1690,899, 'give',give,1
+1691,900,'use',use,1
+1692,900, 'portable',portable,1
+1693,900, 'easy',easy,1
+1694,901,'inside use',inside use,2
+1695,901, 'great projector',great projector,2
+1696,901,'great outside',great outside,2
+1697,901, 'not',not,1
+1698,902,'anker product',anker product,2
+1700,902,'usual user friendliness',usual user friendliness,3
+1701,902," 'high performance """"'",high performance,2
+1702,902, 'lack',lack,1
+1703,902, 'feel',feel,1
+1704,903,'`` great lil product',great lil product,3
+1705,903," 'improve """"'",improve,1
+1706,903, 'room',room,1
+1707,904,'nice',nice,1
+1708,904,'projection unit',projection unit,2
+1709,904, 'portable display',portable display,2
+1710,904, 'excellent quality',excellent quality,2
+1711,905,'good',good,1
+1712,905, 'couple',couple,1
+1713,906,'gift',gift,1
+1714,906,'good product',good product,2
+1715,906, 'seem',seem,1
+1716,906, 'review',review,1
+1717,907,'pay',pay,1
+1718,907, 'get',get,1
+1719,908,'awesome mini projector',awesome mini projector,3
+1720,908, 'home',home,1
+1721,909,'good customer service',good customer service,3
+1722,909,'helpful',helpful,1
+1724,910,'much well',much well,2
+1725,910, 'install apps',install apps,2
+1726,910, 'soon',soon,1
+1727,910, 'play',play,1
+1728,911,'great',great,1
+1729,912,"'meeting expectation """"'",meeting expectation,2
+1730,912, 'far',far,1
+1732,913,'look much well',look much well,3
+1733,913, 'expect',expect,1
+1734,914,'use',use,1
+1735,914, 'easy',easy,1
+1736,914,'good video quality',good video quality,3
+1737,914, 'decent volume',decent volume,2
+1738,915,'awesome device',awesome device,2
+1739,915, 'money',money,1
+1740,916,'nice product',nice product,2
+1741,917,'item work fine',item work fine,3
+1742,917, 'box',box,1
+1743,918,'little projector',little projector,2
+1744,918, 'great performance',great performance,2
+1745,919,'work properly',work properly,2
+1746,919, 'awesome projector',awesome projector,2
+1747,920,'not support youtube tv',not support youtube tv,4
+1748,920, 'ga release',ga release,2
+1749,921,'tiny device',tiny device,2
+1750,921, 'pack quite',pack quite,2
+1751,921, 'punch',punch,1
+1752,922,'awesome little toy',awesome little toy,3
+1753,923,'budget projector',budget projector,2
+1754,923, 'great',great,1
+1755,924,'great portable speaker',great portable speaker,3
+1756,924, 'whistle',whistle,1
+1757,924, 'bell',bell,1
+1758,925,'great budget projector',great budget projector,3
+1759,925, 'watch tv',watch tv,2
+1760,925, 'movie',movie,1
+1761,926,'price',price,1
+1762,926, 'nice',nice,1
+1763,927,'bad projector hopefully',bad projector hopefully,3
+1764,927, 'not',not,1
+1765,927, 'issue',issue,1
+1766,927, 'fix',fix,1
+1767,928,'small package',small package,2
+1768,928, 'great image',great image,2
+1769,929,'imperfect',imperfect,1
+1770,929, 'awesome',awesome,1
+1771,930,'price',price,1
+1772,930, 'good',good,1
+1773,930,'great support',great support,2
+1774,931,'compact simple',compact simple,2
+1775,931, 'operate',operate,1
+1776,932,'5 star',5 star,2
+1777,932, 'close',close,1
+1778,933,'`` dont buy use like new item',dont buy use like new item,6
+1779,933," 'original packaging """"'",original packaging,2
+1780,933, 'come',come,1
+1781,933,'packaging',packaging,1
+1782,933, 'damage',damage,1
+1783,934,'slight flaw',slight flaw,2
+1784,934, 'great device',great device,2
+1785,934, 'software',software,1
+1786,935,'look good',look good,2
+1787,935,'pretty bad',pretty bad,2
+1788,935, 'resolution',resolution,1
+1789,936,'value',value,1
+1790,936, 'money',money,1
+1791,937,'fantastic self contain portable projector',fantastic self contain portable projector,5
+1792,938,'satisfied',satisfied,1
+1793,939,'great little projector',great little projector,3
+1794,940,'lens cap',lens cap,2
+1795,940, 'big brother',big brother,2
+1796,940, 'switch',switch,1
+1797,940, 'miss',miss,1
+1798,941,'user friendly except youtube sign',user friendly except youtube sign,5
+1799,942,'nebula casule',nebula casule,2
+1800,942, 'fun',fun,1
+1801,942,'solid portable projector',solid portable projector,3
+1802,943,'good buy',good buy,2
+1803,944,'pretty awesome',pretty awesome,2
+1804,944, 'thing',thing,1
+1805,945,'high quality',high quality,2
+1806,945,'meh value',meh value,2
+1807,946,'amaze purchase',amaze purchase,2
+1808,947,'cool gadget',cool gadget,2
+1809,947,'brightness adjustment',brightness adjustment,2
+1810,948,'impressed',impressed,1
+1811,949,'home',home,1
+1812,949, 'great',great,1
+1813,950,'around solid performer',around solid performer,3
+1814,951,'customer service',customer service,2
+1815,951, 'love',love,1
+1816,951, 'great',great,1
+1817,951, 'get',get,1
+1819,952,'little sus',little sus,2
+1820,952, 'good',good,1
+1821,953,'great little projector',great little projector,3
+1823,954,'not let',not let,2
+1824,954, 'battery run',battery run,2
+1825,955,"'make """"'",make,1
+1826,955, 'improvement could',improvement could,2
+1827,955, 'amaze',amaze,1
+1829,956,'pretty good product',pretty good product,3
+1830,956, 'well',well,1
+1831,957,'great little projector',great little projector,3
+1832,958,'almost perfect',almost perfect,2
+1833,959,'`` youtube run',youtube run,2
+1834,959, 'device music',device music,2
+1835,959,'deleats',deleats,1
+1836,959,'wash playlist',wash playlist,2
+1837,959,"'not get utube upgrade .... """"'",not get utube upgrade,4
+1838,960,'great portability',great portability,2
+1839,961,'happy',happy,1
+1840,961,'not blown away',not blown away,3
+1841,962,'picture quality',picture quality,2
+1842,962, 'good',good,1
+1843,963,'picture great',picture great,2
+1844,963,'sound not',sound not,2
+1845,963, 'great',great,1
+1846,964,'perfect portable projector',perfect portable projector,3
+1847,964, 'update almost',update almost,2
+1848,964,'original title receive use item',original title receive use item,5
+1849,965,'thank',thank,1
+1850,966,'great portable device',great portable device,3
+1851,967,'amaze little projector',amaze little projector,3
+1853,968,'update',update,1
+1854,968, 'happy',happy,1
+1855,969,'love',love,1
+1856,970,'super easy interface',super easy interface,3
+1857,971,'decent image',decent image,2
+1858,971,'awkward remote',awkward remote,2
+1859,972,'nebula',nebula,1
+1860,973,'use',use,1
+1861,973, 'fun',fun,1
+1862,973, 'fiddly',fiddly,1
+1863,974,'good quality mini projector',good quality mini projector,4
+1864,975,'love',love,1
+1865,975,'issue',issue,1
+1866,975, 'couple',couple,1
+1867,976,'nice projector',nice projector,2
+1868,977,'wish',wish,1
+1869,977, 'brighter',brighter,1
+1870,978,'price',price,1
+1871,978, 'mediocre',mediocre,1
+1872,979,'use hdmi',use hdmi,2
+1873,980,'nice',nice,1
+1874,980, 'cute',cute,1
+1875,981,'best',best,1
+1876,982,'doesnt seem',doesnt seem,2
+1877,982, 'might',might,1
+1878,982, 'dense',dense,1
+1880,983,'size',size,1
+1881,983, 'good',good,1
+1882,983,'prize ...',prize,1
+1883,983, 'not',not,1
+1884,983, 'limited',limited,1
+1885,984,'app problem',app problem,2
+1886,985,'good projector',good projector,2
+1887,985,'bad remote manufacturing',bad remote manufacturing,3
+1888,986,'well worth',well worth,2
+1889,986, 'value',value,1
+1890,987,'great little gadget',great little gadget,3
+1891,988,'small price',small price,2
+1892,988, 'great projector',great projector,2
+1893,989,'package',package,1
+1894,990,'set',set,1
+1895,990, 'easy',easy,1
+1896,990,'netflix experience could',netflix experience could,3
+1897,990, 'improve',improve,1
+1898,991,'almost',almost,1
+1899,992,'good projector',good projector,2
+1900,992, 'price',price,1
+1901,993,'fun little projector',fun little projector,3
+1902,994,'neat',neat,1
+1903,995,'party time',party time,2
+1904,995, 'portability',portability,1
+1905,995, 'built',built,1
+1907,996,'use',use,1
+1908,996, 'nice',nice,1
+1909,996, 'learn',learn,1
+1910,997,'nice product ....',nice product,2
+1911,998,'theory',theory,1
+1912,998, 'cool',cool,1
+1913,999,'portable',portable,1
+1914,999,'use',use,1
+1915,999, 'easy',easy,1
+1916,1000,'great gadget',great gadget,2
+1917,1001,'sound quality',sound quality,2
+1918,1001, 'awesome picture',awesome picture,2
+1919,1002,'blurry picture',blurry picture,2
+1920,1003,'satisfied purchase',satisfied purchase,2
+1921,1004,'frustrate',frustrate,1
+1922,1004, 'audio',audio,1
+1923,1005,'small package',small package,2
+1924,1005, 'good',good,1
+1925,1006,'really',really,1
+1926,1006, 'product',product,1
+1927,1006, 'love',love,1
+1928,1007,'battery',battery,1
+1929,1008,'good not great',good not great,3
+1930,1009,'cant log',cant log,2
+1931,1009, 'youtube',youtube,1
+1932,1009, 'account',account,1
+1933,1010,'great portable projector',great portable projector,3
+1934,1010, 'remote control',remote control,2
+1935,1010, 'main weakness',main weakness,2
+1936,1011,'excellent customer service',excellent customer service,3
+1937,1012,'great small projector',great small projector,3
+1938,1013,'not',not,1
+1939,1013, 'happy',happy,1
+1940,1014,'great unit',great unit,2
+1941,1014,'good overall especially',good overall especially,3
+1942,1014, 'price',price,1
+1943,1014, 'could',could,1
+1944,1014, 'brighter',brighter,1
+1945,1015,'well',well,1
+1946,1015, 'good',good,1
+1947,1015, 'could',could,1
+1948,1016,'5',5,1
+1949,1016, '4',4,1
+1950,1017,'seriously impressive',seriously impressive,2
+1951,1018,'great projector',great projector,2
+1952,1019,'pretty',pretty,1
+1953,1019,'pretty good',pretty good,2
+1954,1020,'不太明亮',不太明亮,1
+1955,1021,'vitamin capsule',vitamin capsule,2
+1956,1021, 'multi',multi,1
+1957,1022,'need easy control',need easy control,3
+1958,1023,'size',size,1
+1959,1023, 'price',price,1
+1960,1023, 'impressive',impressive,1
+1961,1024,'good product',good product,2
+1962,1025,'investment',investment,1
+1963,1026,'satisfaction deliver',satisfaction deliver,2
+1964,1027,'multiple channel',multiple channel,2
+1965,1027, 'airplay mirror',airplay mirror,2
+1966,1027, 'wifi',wifi,1
+1967,1027, 'use',use,1
+1968,1027, 'not',not,1
+1969,1028,'portable ...',portable,1
+1970,1029,'great little projector',great little projector,3
+1971,1030,'outdoor casual view',outdoor casual view,3
+1972,1030, 'wall',wall,1
+1973,1030, 'screen',screen,1
+1974,1030, 'great',great,1
+1975,1031,'use',use,1
+1976,1031, 'easy',easy,1
+1977,1032,'really like',really like,2
+1978,1032, 'overall',overall,1
+1979,1033,'average quality',average quality,2
+1980,1034,'quality',quality,1
+1981,1034, 'picture',picture,1
+1982,1034,'view',view,1
+1983,1034, 'opportunity',opportunity,1
+1985,1035,'perfect',perfect,1
+1986,1035, 'hd',hd,1
+1988,1035,"'miss """"'",miss,1
+1989,1035, 'thats',thats,1
+1990,1035, 'star',star,1
+1991,1036,'protibale',protibale,1
+1992,1036, 'cheap',cheap,1
+1993,1037,'worth',worth,1
+1994,1037, 'money',money,1
+1995,1038,'slow charge',slow charge,2
+1996,1038, 'fast',fast,1
+1997,1038, 'die',die,1
+1998,1038, 'battery',battery,1
+1999,1039,'use',use,1
+2000,1039, 'not',not,1
+2001,1039, 'easy',easy,1
+2002,1039,'effective',effective,1
+2003,1040,'apps work',apps work,2
+2004,1040, 'none',none,1
+2005,1040,'youtube',youtube,1
+2006,1040,'netflix',netflix,1
+2008,1041,'nice item',nice item,2
+2009,1042,'receive',receive,1
+2010,1043,'use',use,1
+2011,1043, 'functionality',functionality,1
+2012,1043, 'ease',ease,1
+2013,1044,'good software need work',good software need work,4
+2014,1044, 'hardware',hardware,1
+2015,1045,'great picture',great picture,2
+2016,1045, 'use',use,1
+2017,1045, 'easy',easy,1
+2018,1046,'close',close,1
+2019,1046,'`` need 1080p',need 1080p,2
+2020,1046, 'ill definitely',ill definitely,2
+2021,1046," 'back """"'",back,1
+2022,1047,'great product',great product,2
+2023,1048,'great product',great product,2
+2024,1049,'good projector',good projector,2
+2025,1050,'small',small,1
+2026,1050, 'mighty',mighty,1
+2027,1051,'four star',four star,2
+2028,1052,'80 percent perfect',80 percent perfect,3
+2029,1053,'great gift',great gift,2
+2030,1053, 'college student',college student,2
+2031,1054,'fun product',fun product,2
+2032,1055,'surprised',surprised,1
+2033,1055, 'size',size,1
+2034,1055, 'price',price,1
+2035,1055, 'good',good,1
+2036,1056,'netflix',netflix,1
+2037,1056, 'excelent',excelent,1
+2038,1057,'great buy',great buy,2
+2039,1058,'impressed',impressed,1
+2040,1059,'unique',unique,1
+2041,1060,'work well',work well,2
+2042,1061,'bright environment',bright environment,2
+2043,1061, 'bad image',bad image,2
+2044,1062,'tv replacement',tv replacement,2
+2045,1062, 'perfect',perfect,1
+2046,1062, 'bedroom',bedroom,1
+2047,1063,'awesome projector',awesome projector,2
+2048,1063,'cant get',cant get,2
+2049,1063, 'issue',issue,1
+2051,1064,'well worth',well worth,2
+2052,1064, 'price',price,1
+2055,1065,'good quality',good quality,2
+2056,1066,"'4 """"'",4,1
+2057,1066, 'like',like,1
+2058,1066, 'guess',guess,1
+2060,1067,'customer service',customer service,2
+2061,1067, 'cast',cast,1
+2062,1068,'good',good,1
+2063,1068, 'far',far,1
+2064,1069,'lackluster battery',lackluster battery,2
+2065,1069, '3 year',3 year,2
+2066,1070,'need well ui',need well ui,3
+2067,1070, 'great projector',great projector,2
+2068,1070, 'app support',app support,2
+2069,1071,'set',set,1
+2070,1071, 'easy',easy,1
+2071,1072,'awesome',awesome,1
+2072,1073,'youtube app',youtube app,2
+2073,1073, 'sign ...',sign,1
+2074,1073, 'great item',great item,2
+2075,1073, 'let',let,1
+2076,1074,'quite good except',quite good except,3
+2077,1074, 'battery',battery,1
+2078,1075,'pretty dope',pretty dope,2
+2079,1076,'good',good,1
+2080,1077,'na',na,1
+2081,1078,'nebula review',nebula review,2
+2082,1079,'portable projector',portable projector,2
+2083,1080,'excellent customer support',excellent customer support,3
+2084,1080, 'cool device',cool device,2
+2085,1081,"'audio output """"'",audio output,2
+2086,1081, 'great device',great device,2
+2088,1082,'advertised',advertised,1
+2089,1083,'four star',four star,2
+2090,1084,'good item',good item,2
+2091,1084, 'like',like,1
+2092,1085,'mostly good',mostly good,2
+2093,1086,'amaze portable projector',amaze portable projector,3
+2094,1087,'sharper image',sharper image,2
+2095,1088,'good portable projector',good portable projector,3
+2096,1089,'close range',close range,2
+2097,1089, 'kid',kid,1
+2098,1089, 'good',good,1
+2099,1090,'great buy',great buy,2
+2100,1091,'portable',portable,1
+2101,1092,'device',device,1
+2102,1092, 'amaze',amaze,1
+2103,1093,'time',time,1
+2104,1093, 'not',not,1
+2105,1093, 'epic',epic,1
+2106,1093, 'amaze',amaze,1
+2107,1094,'ok',ok,1
+2108,1094,'not great',not great,2
+2109,1095,'solution',solution,1
+2110,1095, 'great',great,1
+2111,1096,'really good',really good,2
+2112,1097,'fahad',fahad,1
+2113,1098,'four star',four star,2
+2114,1099,'sometimes see nothing',sometimes see nothing,3
+2115,1099, 'watch movie',watch movie,2
+2116,1099, 'dark scene',dark scene,2
+2117,1099, 'fix',fix,1
+2118,1100,'good not perfect',good not perfect,3
+2119,1101,'watch itunes content',watch itunes content,3
+2120,1101, 'plan',plan,1
+2122,1102,'need well quality',need well quality,3
+2123,1102, 'speaker',speaker,1
+2124,1103,'h',h,1
+2125,1104,'smart perjector',smart perjector,2
+2126,1105,'good',good,1
+2127,1106,'take nebula capsule',take nebula capsule,3
+2128,1106, 'nice projector',nice projector,2
+2129,1106, 'im happy',im happy,2
+2130,1106, 'im ...',im,1
+2131,1107,'great little device',great little device,3
+2132,1107, 'price',price,1
+2133,1108,'good stuff',good stuff,2
+2134,1108,"'chromecast ... """"'",chromecast,1
+2135,1108, '`` though itd',though itd,2
+2136,1108, 'even well',even well,2
+2137,1109,'decidedly well image quality',decidedly well image quality,4
+2138,1109, 'much brighter',much brighter,2
+2139,1109, 'spro2',spro2,1
+2140,1109, 'kill',kill,1
+2141,1109, '480',480,1
+2142,1110,'great product',great product,2
+2143,1110, 'overall',overall,1
+2144,1110,'love',love,1
+2145,1111,'small problem',small problem,2
+2146,1111, 'far',far,1
+2147,1111, 'experience',experience,1
+2149,1111,'however ...',however,1
+2150,1112,'pleasantly surprised typical anker quality',pleasantly surprised typical anker quality,5
+2151,1113,'portable projector',portable projector,2
+2152,1113, 'speaker',speaker,1
+2153,1113, 'soda',soda,1
+2154,1113, 'size',size,1
+2155,1113, 'built',built,1
+2156,1113, 'apps',apps,1
+2157,1114,'surprisingly great little projector',surprisingly great little projector,4
+2158,1115,'quality bright',quality bright,2
+2159,1115, 'portable high',portable high,2
+2160,1115, 'loud projector',loud projector,2
+2161,1115, 'good battery',good battery,2
+2162,1115,'gm yet',gm yet,2
+2163,1115, 'fast android',fast android,2
+2164,1115,'picture quality',picture quality,2
+2165,1115, 'mediocre though',mediocre though,2
+2166,1116,'many fake review update',many fake review update,4
+2167,1116, 'terrible product',terrible product,2
+2168,1117,'great customer service',great customer service,3
+2169,1117, 'follow',follow,1
+2170,1118,'almost perfect',almost perfect,2
+2171,1119,'incredible support',incredible support,2
+2172,1119, 'write',write,1
+2173,1119, 'review',review,1
+2174,1119, 'recieved',recieved,1
+2175,1120,'cool device',cool device,2
+2176,1120,'software',software,1
+2177,1120, 'limit',limit,1
+2178,1120,'support really care',support really care,3
+2179,1121,'bad buy',bad buy,2
+2180,1121, 'not',not,1
+2181,1122,'remote control location',remote control location,3
+2182,1123,'good hardware',good hardware,2
+2183,1123,'software could use',software could use,3
+2184,1123, 'work',work,1
+2185,1124,'responsive customer service',responsive customer service,3
+2186,1124, 'sound',sound,1
+2187,1124, 'good',good,1
+2188,1125,'great compact projector',great compact projector,3
+2189,1126,'great product',great product,2
+2190,1126, 'bright room',bright room,2
+2191,1126, 'use',use,1
+2192,1126, 'tough',tough,1
+2193,1126,'not recommend',not recommend,2
+2194,1126, 'office',office,1
+2195,1127,'good quality',good quality,2
+2196,1128,'almost perfect',almost perfect,2
+2197,1129,'great little projector',great little projector,3
+2198,1130,'worth',worth,1
+2199,1131,'screen adjustment',screen adjustment,2
+2200,1131, 'minimalist',minimalist,1
+2201,1131, 'great',great,1
+2202,1131, 'counterproductive',counterproductive,1
+2203,1131, 'auto',auto,1
+2204,1132,'small compact',small compact,2
+2205,1133,'nice little projector',nice little projector,3
+2206,1134,'not precisely ~~',not precisely,2
+2207,1134, 'work',work,1
+2208,1135,'privacy policy',privacy policy,2
+2209,1135, 'read',read,1
+2210,1135,'intrusive',intrusive,1
+2211,1136,'`` great hardware',great hardware,2
+2212,1136,"'software doesnt work """"'",software doesnt work,3
+2213,1136,'not buy unless',not buy unless,3
+2214,1136, 'hdmi source',hdmi source,2
+2215,1136, 'want',want,1
+2216,1136, 'project',project,1
+2217,1137,'keep',keep,1
+2219,1138,'lie',lie,1
+2220,1139,'not work',not work,2
+2221,1139, 'format',format,1
+2222,1140,'need',need,1
+2223,1140, 'brighter',brighter,1
+2224,1141,'2 week',2 week,2
+2225,1141,'7 etc support call',7 etc support call,4
+2226,1141, 'not work',not work,2
+2227,1141, 'hdmi cable',hdmi cable,2
+2228,1141, '76 worth',76 worth,2
+2229,1141, 'connector',connector,1
+2230,1142,'need improvement',need improvement,2
+2231,1142, 'good attempt',good attempt,2
+2232,1143,'lovely outside',lovely outside,2
+2233,1143,'unit leaf something',unit leaf something,3
+2234,1143, 'gut',gut,1
+2235,1143, 'desire',desire,1
+2236,1144,'longevity',longevity,1
+2237,1144,'sporadic functionality',sporadic functionality,2
+2238,1145,'unlocked ...',unlocked,1
+2239,1145, 'must',must,1
+2240,1146,'almost love',almost love,2
+2241,1146,'not worth',not worth,2
+2242,1146, 'price',price,1
+2243,1147,'terrible software',terrible software,2
+2244,1147, 'barely usable',barely usable,2
+2246,1148,"'doesnt work """"'",doesnt work,2
+2248,1149,'not work well',not work well,3
+2249,1149, 'ipad',ipad,1
+2250,1149, 'airplay',airplay,1
+2251,1150,'think',think,1
+2252,1150, 'not',not,1
+2253,1151,'great purchase',great purchase,2
+2254,1151, 'probably',probably,1
+2255,1151, '2018',2018,1
+2256,1151,'well option',well option,2
+2257,1151, 'price',price,1
+2258,1151, '2021',2021,1
+2259,1152,'ok not great',ok not great,3
+2260,1153,'not worth',not worth,2
+2261,1153, 'money',money,1
+2262,1154,'look elsewhere not',look elsewhere not,3
+2263,1154, 'blurry edge',blurry edge,2
+2264,1154, 'bright',bright,1
+2265,1155,'underwhelmed',underwhelmed,1
+2266,1155, 'disappointed',disappointed,1
+2267,1156,'expensive',expensive,1
+2268,1156,'bad navigation',bad navigation,2
+2269,1156,'display resize',display resize,2
+2270,1157,'poor quality',poor quality,2
+2271,1157, 'price',price,1
+2272,1158,'great small projector',great small projector,3
+2273,1159,'utter disappointment',utter disappointment,2
+2274,1159, 'waste',waste,1
+2275,1159, 'money',money,1
+2276,1159,'run like',run like,2
+2277,1159, 'cheap',cheap,1
+2278,1159, 'buy',buy,1
+2279,1160,'window projection not great',window projection not great,4
+2280,1160, 'brightness',brightness,1
+2281,1161,'audio',audio,1
+2283,1162,'youtube sign',youtube sign,2
+2284,1162, 'trick',trick,1
+2285,1162, 'tip',tip,1
+2286,1163,'not',not,1
+2287,1163,'mislead review',mislead review,2
+2288,1164,'`` video isnt',video isnt,2
+2289,1164, 'sharp',sharp,1
+2290,1164,'420p',420p,1
+2291,1164,"'good """"'",good,1
+2292,1164, 'rest',rest,1
+2293,1165,'job',job,1
+2294,1165,'expect',expect,1
+2295,1166,'price point',price point,2
+2296,1166, 'others',others,1
+2297,1166, 'compare',compare,1
+2298,1166,'disappointed',disappointed,1
+2299,1167,"'`` doesnt really screen mirror """"'",doesnt really screen mirror,4
+2300,1168,'many many reason',many many reason,3
+2301,1168, 'suck',suck,1
+2302,1168, 'move',move,1
+2303,1169,'never actually watch anything',never actually watch anything,4
+2304,1169, 'prepared',prepared,1
+2305,1170,'not work',not work,2
+2306,1170, 'awful device',awful device,2
+2307,1171,'low quality item',low quality item,3
+2308,1171,'light usage',light usage,2
+2309,1171, '22 month',22 month,2
+2310,1171, 'die',die,1
+2311,1172,'look',look,1
+2312,1172, 'longevity',longevity,1
+2313,1172,'extend warranty',extend warranty,2
+2314,1172, 'buy',buy,1
+2315,1173,'great video',great video,2
+2316,1173, 'disappoint',disappoint,1
+2317,1174,'product picture quality',product picture quality,3
+2318,1174, 'bad',bad,1
+2319,1175,'expensive toy',expensive toy,2
+2320,1175,'not much application',not much application,3
+2321,1176,'complete mess fill',complete mess fill,3
+2322,1176, 'issue',issue,1
+2323,1176,'not worth price',not worth price,3
+2324,1177,'sell use item',sell use item,3
+2325,1177, 'disappointed',disappointed,1
+2326,1178,'well manufacture',well manufacture,2
+2327,1178,'disappoint audio',disappoint audio,2
+2328,1179,'get original version',get original version,3
+2329,1179, 'capsule ii',capsule ii,2
+2330,1179, 'not',not,1
+2331,1180,'apple compatibility lack',apple compatibility lack,3
+2332,1181,'dont buy',dont buy,2
+2333,1181, 'product',product,1
+2334,1182,'cool idea',cool idea,2
+2335,1182,'great design',great design,2
+2336,1182,'bad execution',bad execution,2
+2337,1183,'garbage',garbage,1
+2338,1184,'great size',great size,2
+2339,1184,'connection port lack',connection port lack,3
+2340,1184, 'terrible software',terrible software,2
+2341,1185,'money back please',money back please,3
+2342,1185, 'send',send,1
+2343,1186,'save',save,1
+2344,1186, 'money',money,1
+2345,1186,'not buy',not buy,2
+2346,1186, 'junk',junk,1
+2347,1187,'not',not,1
+2348,1187, 'described',described,1
+2349,1188,'toy',toy,1
+2350,1189,'dim',dim,1
+2351,1190,'stop work',stop work,2
+2352,1190, 'year',year,1
+2353,1191,'not',not,1
+2354,1191, 'bright',bright,1
+2355,1191,'dark room',dark room,2
+2356,1191, 'good',good,1
+2357,1192,'high hope',high hope,2
+2358,1192,'disappointed',disappointed,1
+2359,1192,'limit hardware',limit hardware,2
+2360,1192, 'software',software,1
+2361,1193,'not good enough',not good enough,3
+2362,1194,'solid performance',solid performance,2
+2363,1194,'limited apps',limited apps,2
+2364,1195,'limited capability',limited capability,2
+2365,1196,'not happy',not happy,2
+2366,1197,'okay ...',okay,1
+2367,1197, 'photo',photo,1
+2368,1197, 'deceive',deceive,1
+2369,1198,'bad picture quality',bad picture quality,3
+2370,1198,'not bright',not bright,2
+2371,1198,'time',time,1
+2372,1198, 'grainy',grainy,1
+2373,1199,'really expensive',really expensive,2
+2374,1199, 'crooked projection',crooked projection,2
+2375,1199, '... plus',plus,1
+2376,1199, 'way',way,1
+2377,1199, 'fix',fix,1
+2378,1200,'perfect',perfect,1
+2379,1200, 'disappoint',disappoint,1
+2380,1201,'small size',small size,2
+2381,1201, 'picture function',picture function,2
+2382,1201, 'impressive',impressive,1
+2383,1202,'mediocre purchase',mediocre purchase,2
+2384,1203,'advertising page',advertising page,2
+2385,1203, 'mislead',mislead,1
+2386,1204,'limited stream',limited stream,2
+2387,1205,'shock',shock,1
+2388,1205, 'mess',mess,1
+2389,1206,'terrible',terrible,1
+2390,1206, 'netflix',netflix,1
+2391,1207,'poor quality',poor quality,2
+2392,1207,'four month',four month,2
+2393,1207, 'broken',broken,1
+2394,1208,'okay well spend little',okay well spend little,4
+2395,1208, 'buy good',buy good,2
+2396,1209,'not iphone friendly',not iphone friendly,3
+2397,1209, 'time',time,1
+2398,1209, 'return',return,1
+2399,1209, 'junk',junk,1
+2400,1210,'not bright enough',not bright enough,3
+2401,1210, 'use',use,1
+2402,1211,'gusta pero ...',gusta pero,2
+2403,1212,'seriously',seriously,1
+2404,1213,'not carry',not carry,2
+2405,1213, 'great idea',great idea,2
+2406,1213, 'full potential',full potential,2
+2407,1213, 'far',far,1
+2408,1214,'disappointed beyond word',disappointed beyond word,3
+2409,1215,'not work',not work,2
+2410,1215, 'iphone',iphone,1
+2411,1216,'product need',product need,2
+2412,1216, 'cheapier',cheapier,1
+2413,1217,'purchasing',purchasing,1
+2414,1217, 'piece',piece,1
+2415,1217, 'junk',junk,1
+2416,1217, 'fan',fan,1
+2417,1217, 'anker',anker,1
+2418,1218,'navigate',navigate,1
+2419,1218, 'mode',mode,1
+2420,1218, 'difficult',difficult,1
+2421,1219,'loud',loud,1
+2422,1220,'work well',work well,2
+2423,1220, 'projector',projector,1
+2424,1220,'otherwise polished product',otherwise polished product,3
+2425,1220, 'pretty bad',pretty bad,2
+2426,1220, 'app',app,1
+2427,1221,"'`` speaker isnt good """"'",speaker isnt good,3
+2428,1222,'compact disappointment',compact disappointment,2
+2429,1223,'need complete darkness',need complete darkness,3
+2430,1224,'ok',ok,1
+2431,1225,'overheat within minute',overheat within minute,3
+2432,1225, 'turn',turn,1
+2433,1225, 'problem',problem,1
+2434,1226,'great product',great product,2
+2435,1226,'much',much,1
+2436,1226, 'look',look,1
+2437,1226, 'glitch',glitch,1
+2438,1227,'mini projector mini issue',mini projector mini issue,4
+2439,1228,'not work',not work,2
+2440,1229,'miss piece',miss piece,2
+2441,1230,'defective unit',defective unit,2
+2442,1231,'not waste',not waste,2
+2443,1231, 'family purchase',family purchase,2
+2444,1231, 'time',time,1
+2445,1232,'dark',dark,1
+2446,1233,'not worth',not worth,2
+2447,1233, 'expensive price',expensive price,2
+2448,1234,'receive repackaged item',receive repackaged item,3
+2449,1234, 'previous user account',previous user account,3
+2450,1234, 'connect',connect,1
+2451,1234,'return',return,1
+2452,1235,'not high sound',not high sound,3
+2453,1235, 'image quality',image quality,2
+2454,1235, 'portable',portable,1
+2455,1236,"'couldnt wait """"'",couldnt wait,2
+2456,1236, 'update',update,1
+2458,1237,'alright',alright,1
+2459,1238,"'alright """"'",alright,1
+2461,1239,"'always tilt """"'",always tilt,2
+2462,1239, '`` amaze',amaze,1
+2463,1239, 'nifty',nifty,1
+2464,1240,'poolside',poolside,1
+2465,1240, 'ok',ok,1
+2466,1240,'obviously need complete dark',obviously need complete dark,4
+2467,1240, 'enjoyable',enjoyable,1
+2468,1241,'crash draw',crash draw,2
+2469,1241, 'luck',luck,1
+2470,1242,'okay ..',okay,1
+2471,1243,'not worth',not worth,2
+2472,1243, 'money',money,1
+2473,1243,'novel',novel,1
+2474,1244,'battery drain',battery drain,2
+2476,1245,'terrible',terrible,1
+2477,1245, 'not',not,1
+2478,1245, 'great',great,1
+2479,1246,'dim',dim,1
+2480,1247,'disappointed',disappointed,1
+2481,1248,'amaze product',amaze product,2
+2482,1248,'use product',use product,2
+2483,1248, 'product',product,1
+2484,1248, 'way',way,1
+2485,1248, 'think',think,1
+2486,1248, 'get',get,1
+2487,1248, 'damage',damage,1
+2488,1249,'lack quality feature',lack quality feature,3
+2489,1249, 'gamers',gamers,1
+2490,1250,'not worth',not worth,2
+2491,1251,'short life span',short life span,3
+2492,1252,'crooked screen',crooked screen,2
+2493,1253,'mixed feeling',mixed feeling,2
+2494,1254,'certain condition',certain condition,2
+2495,1254, 'need',need,1
+2496,1255,'use external bluetooth speaker ... anything sort',use external bluetooth speaker anything sort,6
+2497,1255, 'useless',useless,1
+2498,1255, 'stream',stream,1
+2499,1255,'see update',see update,2
+2500,1256,'not',not,1
+2501,1256, 'bright',bright,1
+2502,1257,'projector screen come',projector screen come,3
+2503,1257, 'scratch',scratch,1
+2504,1257, 'inside',inside,1
+2505,1258,'not',not,1
+2506,1258, 'iphone',iphone,1
+2507,1259,'not compatible',not compatible,2
+2508,1259, 'window',window,1
+2509,1259, 'android',android,1
+2510,1260,'good picture quality',good picture quality,3
+2511,1260,'use',use,1
+2512,1260, 'phone',phone,1
+2513,1260, 'hard',hard,1
+2514,1261,'`` dont waste',dont waste,2
+2515,1261," 'projector """"'",projector,1
+2516,1261, 'money',money,1
+2517,1262,'not stream without wifi',not stream without wifi,4
+2518,1263,'nothing work',nothing work,2
+2519,1264,'right direction ...',right direction,2
+2520,1264, 'need improvement',need improvement,2
+2521,1264, 'head',head,1
+2522,1265,'seem tiny',seem tiny,2
+2523,1265, 'simple',simple,1
+2524,1265,'meh',meh,1
+2525,1265, 'fussy',fussy,1
+2526,1266,'not watch youtube',not watch youtube,3
+2527,1266, 'prime',prime,1
+2528,1267,'maybe good',maybe good,2
+2529,1267, 'home',home,1
+2530,1267,'business though',business though,2
+2531,1267, 'not',not,1
+2532,1268,'not',not,1
+2533,1268, 'good',good,1
+2534,1268, 'expect',expect,1
+2535,1269,'brightness suck',brightness suck,2
+2536,1269, 'meh',meh,1
+2537,1269, 'apps',apps,1
+2538,1270,'not work ...',not work,2
+2539,1271,'work amazingly well',work amazingly well,3
+2540,1271, 'dark room',dark room,2
+2541,1271, 'cool concept',cool concept,2
+2542,1272,'small movie projector',small movie projector,3
+2543,1273,'terrible',terrible,1
+2544,1274,'not last long',not last long,3
+2545,1275,'movie apps constantly crash',movie apps constantly crash,4
+2546,1276,'terrible',terrible,1
+2547,1277,'work',work,1
+2548,1277, 'projector',projector,1
+2549,1277, 'projector',projector,1
+2550,1277, 'come',come,1
+2551,1277, 'apps',apps,1
+2552,1278,"'mirror cast wouldnt work """"'",mirror cast wouldnt work,4
+2553,1278, '`` good projector',good projector,2
+2554,1278, 'battery life',battery life,2
+2555,1279,'three star',three star,2
+2556,1280,'good',good,1
+2557,1280, 'eh',eh,1
+2558,1281,'good product',good product,2
+2559,1281,'not excellent',not excellent,2
+2560,1282,'item broke',item broke,2
+2561,1282, 'month',month,1
+2562,1283,'dont buy',dont buy,2
+2563,1284,'complete dark room',complete dark room,3
+2564,1284, 'not bright enough',not bright enough,3
+2565,1284, 'not',not,1
+2566,1285,'not good',not good,2
+2567,1286,'brightly lit room',brightly lit room,3
+2568,1286, 'poor',poor,1
+2569,1287,'prime time ...',prime time,2
+2570,1287, 'not ready',not ready,2
+2571,1288,'poor picture quality',poor picture quality,3
+2572,1289,'not worth',not worth,2
+2573,1289, 'money',money,1
+2574,1289, 'hype',hype,1
+2575,1290,'not recognize hdmi input',not recognize hdmi input,4
+2576,1291,'speaker',speaker,1
+2577,1291, 'delay',delay,1
+2578,1291, 'bluetooth',bluetooth,1
+2579,1292,'sturdy product',sturdy product,2
+2580,1292, 'not',not,1
+2581,1293,'not good',not good,2
+2582,1294,'nebula',nebula,1
+2583,1294, 'disappointed',disappointed,1
+2584,1295,'stream apps',stream apps,2
+2585,1295, 'not work',not work,2
+2586,1296,'nebula',nebula,1
+2587,1297,'remote control issue',remote control issue,3
+2588,1298,'not work',not work,2
+2589,1298, 'iphone user',iphone user,2
+2590,1298, 'aware software',aware software,2
+2591,1299,'avoid',avoid,1
+2592,1300,'awesome',awesome,1
+2593,1300,'break 8 month',break 8 month,3
+2594,1300, 'except',except,1
+2595,1301,'big issue not loud enough',big issue not loud enough,5
+2596,1301, '`` sound output volume',sound output volume,3
+2597,1301," 'outdoor usage """"'",outdoor usage,2
+2598,1302,'not bright enough',not bright enough,3
+2599,1303,'not good',not good,2
+2600,1303, 'everything',everything,1
+2601,1303, 'anything',anything,1
+2602,1304,'not able',not able,2
+2603,1304, 'youtube',youtube,1
+2604,1304, 'login',login,1
+2605,1305,'bad quality picture',bad quality picture,3
+2606,1306,'horrible experience',horrible experience,2
+2607,1307,'constant troubleshoot',constant troubleshoot,2
+2608,1307, 'annoy',annoy,1
+2609,1308,'project',project,1
+2610,1308, 'iphone',iphone,1
+2611,1308, 'anyway',anyway,1
+2612,1309,'bad image quality',bad image quality,3
+2613,1309, 'brightness',brightness,1
+2614,1310,'small',small,1
+2615,1310, 'dull',dull,1
+2616,1311,'product default show',product default show,3
+2617,1311, '1 month',1 month,2
+2618,1312,'well',well,1
+2619,1312, 'could',could,1
+2620,1313,'nebula ii',nebula ii,2
+2621,1313, 'get',get,1
+2622,1313,'waste',waste,1
+2623,1313, 'money',money,1
+2624,1314,'cant screen share netflix',cant screen share netflix,4
+2625,1314, 'amazon ect',amazon ect,2
+2626,1315,'good',good,1
+2627,1315, 'dark',dark,1
+2628,1316,'poor quality',poor quality,2
+2629,1317,'tilt screen',tilt screen,2
+2630,1318,'quality',quality,1
+2631,1318, 'not',not,1
+2632,1319,'lose sound',lose sound,2
+2633,1320,'cute pillow fort date',cute pillow fort date,4
+2634,1320, 'good',good,1
+2635,1320, 'camp',camp,1
+2636,1321,'high fot screen size',high fot screen size,4
+2637,1321, 'perfect match dostan',perfect match dostan,3
+2638,1321, 'adjust screen',adjust screen,2
+2639,1321, 'way',way,1
+2640,1321, 'hard',hard,1
+2641,1322,'not cast',not cast,2
+2642,1322, 'projector',projector,1
+2643,1323,'not worth',not worth,2
+2644,1323, 'hype',hype,1
+2645,1324,'impossible',impossible,1
+2646,1324, 'adjust',adjust,1
+2647,1324,'menu',menu,1
+2648,1324, 'garbage',garbage,1
+2649,1325,'buy ...',buy,1
+2650,1325, 'read',read,1
+2651,1326,'overall solid product',overall solid product,3
+2652,1327,'many glitch',many glitch,2
+2653,1328,'expect',expect,1
+2654,1329,'without support',without support,2
+2655,1329, 'useless',useless,1
+2656,1329, 'thing',thing,1
+2657,1330,'100 ansi lumen',100 ansi lumen,3
+2658,1330, 'not upto',not upto,2
+2659,1330, 'expectation',expectation,1
+2660,1331,'crooked lens',crooked lens,2
+2661,1332,'terrible unit',terrible unit,2
+2662,1333,"'`` doent last long anymore """"'",doent last long anymore,4
+2663,1334,'difficult',difficult,1
+2664,1334,'period',period,1
+2665,1335,'superb device extremely bad keyboard',superb device extremely bad keyboard,5
+2666,1336,'not quite',not quite,2
+2667,1336, 'advertised',advertised,1
+2668,1337,'like 5 use',like 5 use,3
+2669,1337, 'stop work',stop work,2
+2670,1338,'little disappoint',little disappoint,2
+2671,1338,'iphone',iphone,1
+2672,1338,'not get',not get,2
+2673,1339,'nice compact mini projector',nice compact mini projector,4
+2674,1339, 'great speaker',great speaker,2
+2675,1340,'two star',two star,2
+2676,1341,'basic projector',basic projector,2
+2677,1341, '`` doesnt',doesnt,1
+2678,1341, 'suppose',suppose,1
+2680,1342,'slow',slow,1
+2681,1342,'difficult',difficult,1
+2682,1342, 'connect',connect,1
+2683,1342,'wifi',wifi,1
+2684,1342, 'broken',broken,1
+2685,1343,'use unit',use unit,2
+2686,1343, 'miss accessory',miss accessory,2
+2687,1344,'price',price,1
+2688,1344, 'hig',hig,1
+2689,1345,'use',use,1
+2690,1345, 'projector',projector,1
+2691,1345, 'able',able,1
+2692,1346,'video quality ok',video quality ok,3
+2693,1346, 'need',need,1
+2694,1346, 'improvement',improvement,1
+2695,1347,'pleasant product',pleasant product,2
+2696,1347, 'not',not,1
+2697,1348,'see well',see well,2
+2698,1348, 'cheaper',cheaper,1
+2699,1349,'okay',okay,1
+2700,1350,'not good',not good,2
+2701,1351,"'`` doesnt charge """"'",doesnt charge,2
+2702,1352,'usage',usage,1
+2703,1352, 'setup',setup,1
+2704,1352, 'impossible',impossible,1
+2705,1353,'hbo max',hbo max,2
+2706,1354,'loud',loud,1
+2707,1354, 'fan',fan,1
+2708,1355,'picture quality',picture quality,2
+2709,1355, 'not',not,1
+2710,1355, 'good',good,1
+2711,1356,'sound quality',sound quality,2
+2712,1356, 'picture quality',picture quality,2
+2713,1356, 'terrible',terrible,1
+2714,1356, 'fair',fair,1
+2715,1357,'two star',two star,2
+2716,1358,'not turn',not turn,2
+2717,1358, '5 minute',5 minute,2
+2718,1359,'picture quality',picture quality,2
+2719,1360,'favorite projector',favorite projector,2
+2720,1360, 'not',not,1
+2721,1361,'decent',decent,1
+2722,1362,'noice',noice,1
+2723,1363,'not',not,1
+2724,1363, 'advertises',advertises,1
+2725,1364,'great image quality',great image quality,3
+2726,1364,'poor sound',poor sound,2
+2727,1365,'loud fan',loud fan,2
+2728,1365, 'fun',fun,1
+2729,1366,'picure quality',picure quality,2
+2730,1366, 'not sharp',not sharp,2
+2731,1366,'day time ..',day time,2
+2732,1366, 'not usable',not usable,2
+2733,1367,'support',support,1
+2735,1369,'really want keep',really want keep,3
+2736,1369, 'projector',projector,1
+2738,1370,'low light lumen',low light lumen,3
+2739,1371,'horrible sound',horrible sound,2
+2740,1372,'mini projector',mini projector,2
+2741,1372, 'bad experience',bad experience,2
+2742,1373,'ok',ok,1
+2743,1374,'poorly write manual great tech support',poorly write manual great tech support,6
+2744,1374, 'kevin',kevin,1
+2745,1375,'pricey paperweight',pricey paperweight,2
+2746,1376,'poor quality',poor quality,2
+2747,1377,'moderate good',moderate good,2
+2748,1378,'waste',waste,1
+2749,1378, 'money',money,1
+2750,1379,'lumen need',lumen need,2
+2751,1379, 'output',output,1
+2753,1381,'terrible',terrible,1
+2754,1382,'two star',two star,2
+2755,1383,'get 2 us ot',get 2 us ot,4
+2756,1383, 'device',device,1
+2757,1384,'loss focus constantly',loss focus constantly,3
+2759,1385,'capsule control app',capsule control app,3
+2760,1385, 'poor',poor,1
+2761,1385,'mouse function',mouse function,2
+2762,1385, 'difficult',difficult,1
+2763,1385, 'control',control,1
+2764,1386,'sadly dissappointed yet simultaneously awed',sadly dissappointed yet simultaneously awed,5
+2765,1387,'software ruin',software ruin,2
+2766,1387, 'product',product,1
+2767,1388,'screencast not compatible',screencast not compatible,3
+2768,1388, 'google pixel phone',google pixel phone,3
+2769,1389,'nebula capsule review update',nebula capsule review update,4
+2770,1390,'not impressed welcome',not impressed welcome,3
+2771,1390, 'dongle life',dongle life,2
+2772,1391,'low brightness',low brightness,2
+2773,1391, 'big problem',big problem,2
+2774,1392,'get something well',get something well,3
+2775,1392, 'high quality',high quality,2
+2776,1392, 'cost',cost,1
+2777,1393,'not buy',not buy,2
+2778,1393,'scam',scam,1
+2779,1393,'fake',fake,1
+2780,1393,'trash',trash,1
+2782,1394,'totally waste product',totally waste product,3
+2783,1395,'bake device',bake device,2
+2784,1396,'really want',really want,2
+2785,1396, 'like',like,1
+2787,1397,'terrible software',terrible software,2
+2788,1397, 'pleasant hardware',pleasant hardware,2
+2789,1398,'not compatible',not compatible,2
+2790,1398, 'disney plus',disney plus,2
+2791,1398, 'horrible',horrible,1
+2792,1398, 'app',app,1
+2793,1399,'since november',since november,2
+2794,1399, 'second',second,1
+2795,1400,'cool',cool,1
+2796,1400,'wish',wish,1
+2797,1400, 'brighter',brighter,1
+2798,1401,'chromecast',chromecast,1
+2799,1402,'run netflix',run netflix,2
+2800,1402, 'need help',need help,2
+2801,1403,'miss important integration',miss important integration,3
+2802,1404,'fence',fence,1
+2803,1405,'price',price,1
+2804,1406,'father day',father day,2
+2805,1406, 'expect well',expect well,2
+2806,1406, 'anker ruin',anker ruin,2
+2807,1407,'repair center',repair center,2
+2808,1407, 'disposable projector',disposable projector,2
+2809,1407, 'usa',usa,1
+2810,1408,'star',star,1
+2811,1409,'disappointed',disappointed,1
+2812,1410,'tv ...',tv,1
+2813,1410, 'not work',not work,2
+2814,1410, 'watch',watch,1
+2815,1410, 'apps',apps,1
+2816,1411,'pretty big deal breaker',pretty big deal breaker,4
+2817,1411, '`` thats',thats,1
+2819,1412,'three star',three star,2
+2820,1413,'two star',two star,2
+2821,1414,'really amaze',really amaze,2
+2822,1415,'`` surely',surely,1
+2823,1415, 'wonderful',wonderful,1
+2825,1416,'lack flexibility',lack flexibility,2
+2826,1417,'two defective unit right',two defective unit right,4
+2827,1417, 'box',box,1
+2828,1417,'not good odds',not good odds,3
+2829,1417,'skip',skip,1
+2830,1417, 'product',product,1
+2831,1418,'low',low,1
+2832,1419,'not worth',not worth,2
+2833,1419, 'price',price,1
+2834,1420,'twitch app',twitch app,2
+2835,1420, 'not work',not work,2
+2836,1421,'badluck',badluck,1
+2837,1422,'awsome',awsome,1
